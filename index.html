@@ -2,11 +2,104 @@
 <html lang="ru">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Простая страница</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Устинов Дмитрий — Киберпанк Технологии</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Orbitron', 'Roboto', Arial, sans-serif;
+      background: linear-gradient(135deg,#17181c,#1c1f2a 80%);
+      color: #00fff7;
+      min-height: 100vh;
+    }
+    header {
+      background: #101014cc;
+      padding: 2em 0 1em 0;
+      text-align: center;
+      border-bottom: 2px solid #19ffb7;
+      box-shadow: 0 0 20px #19ffb766;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2.5em;
+      font-family: 'Orbitron', 'Roboto', Arial, sans-serif;
+      letter-spacing: 2px;
+      color: #00fff7;
+      text-shadow: 0 0 8px #19ffb7cc;
+    }
+    h2 {
+      color: #ffe500;
+      letter-spacing: 1px;
+      margin-top: 2em;
+    }
+    p,li {
+      font-size: 1.2em;
+      line-height: 1.6;
+      margin-bottom: 0.8em;
+    }
+    .block {
+      margin: 2em auto;
+      padding: 2em;
+      background: #22253a56;
+      border-radius: 18px;
+      max-width: 700px;
+      box-shadow: 0 2px 24px #19ffb755;
+      border: 1px solid #19ffb7;
+    }
+    .achievements {
+      background: #18182088;
+      border-left: 5px solid #ffe500;
+      padding-left: 1em;
+      margin-top: 1.5em;
+    }
+    a {
+      color: #ffe500;
+      text-decoration: underline;
+      transition: color 0.2s;
+    }
+    a:hover {
+      color: #19ffb7;
+    }
+    .footer {
+      margin-top: 2em;
+      text-align: center;
+      font-size: 1.1em;
+      color: #bfe5ff;
+      opacity: 0.8;
+    }
+  </style>
+  <link href="https://fonts.googleapis.com/css?family=Orbitron&display=swap" rel="stylesheet">
 </head>
 <body>
-  <h1>Привет, мир!</h1>
-  <p>Это пример самой простой HTML‑страницы.</p>
+  <header>
+    <h1>USTINOV.DMITRY<br><span style="font-size:1.3em;">КИБЕРПАНК & РОБОФУТБОЛ</span></h1>
+    <p>Технопарк Капицы — Физтех-лицей — Старкит — Robokit — Robofootball</p>
+  </header>
+  <div class="block">
+    <h2>Who am I?</h2>
+    <ul>
+      <li>Заведующий лабораторией &#128187; <strong>Гуманоидная робототехника</strong> Технопарка Физтех-лицея им. П. Л. Капицы</li>
+      <li>Руководитель кружка <strong>Робофутбол</strong> направления МехТех</li>
+      <li>Выпускник Физического факультета МГУ <em>(2015)</em></li>
+      <li>Куратор проектов <strong>Starkit</strong> — чемпионов мира по гуманоидному робофутболу (<em>FIRA 2021, 2022</em>)</li>
+      <li>Ведущий курса <a href="https://emkod.ru" target="_blank">Emkod.ru</a> — эффективная разработка и современные технологии на стеке нейросетей и ИИ</li>
+    </ul>
+    <div class="achievements">
+      <h2>Достижения</h2>
+      <ul>
+        <li>Команды под руководством завоевали все призовые места в школьной лиге Хуманоид Junior — <span style="color:#ffe500;">Robokit</span> собрал и презентовал уникального робота Roki-2</li>
+        <li>Победа на международных соревнованиях в Тайване (FIRA)</li>
+        <li>Участие и лидерство в программе «Робофутбол», образовательный прорыв в России</li>
+        <li>Популяризация гуманоидной робототехники — сотни юных инженеров прошли обучение и прокачали навыки создания интеллектуальных командных роботов</li>
+        <li>Автор и ведущий современного курса <a href="https://emkod.ru" target="_blank">Emkod.ru</a> — обучение «вайбкодингу», генерации ИИ-кода и реальным кейсам IT-технологий</li>
+      </ul>
+    </div>
+    <h2>Сообщество Robofootball</h2>
+    <p>Самое активное сообщество по робофутболу в России: новости, кейсы, обучение, success stories. Следите за апдейтами и присоединяйтесь:<br>
+    <a href="https://t.me/s/robofootball" target="_blank">t.me/s/robofootball</a></p>
+  </div>
+  <div class="footer">
+    © USTINOV DMITRY. Киберпанк & Robofutbol | Технопарк Капицы | Физтех-лицей | Старкит | Emkod.ru [2025]
+  </div>
 </body>
 </html>
