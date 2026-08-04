@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Дмитрий Устинов — Senior Software / Infrastructure Engineer</title>
+<style>
+:root{
+  --bg:#ffffff;
+  --ink:#1d1d1f;
+  --ink-secondary:#6e6e73;
+  --ink-tertiary:#86868b;
+  --line:#d2d2d7;
+  --line-soft:#e8e8ed;
+  --accent:#0066cc;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  background:var(--bg);
+  color:var(--ink);
+  font-family:-apple-system,BlinkMacSystemFont,'SF Pro Text','Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;
+  font-size:17px;
+  line-height:1.5;
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+}
+::selection{background:var(--accent);color:#fff}
+
+.wrap{max-width:820px;margin:0 auto;padding:0 24px}
+
+/* ===== header ===== */
+header{
+  position:sticky;top:0;z-index:10;
+  background:rgba(255,255,255,.85);
+  backdrop-filter:saturate(180%) blur(12px);
+  -webkit-backdrop-filter:saturate(180%) blur(12px);
+  border-bottom:1px solid var(--line-soft);
+}
+.header-in{
+  max-width:820px;margin:0 auto;padding:0 24px;height:52px;
+  display:flex;align-items:center;justify-content:space-between;
+}
+.logo{font-size:13px;font-weight:600;letter-spacing:.02em;color:var(--ink)}
+
+/* lang switch — plain segmented control */
+.lang{display:flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.lang button{
+  font-family:inherit;font-size:12px;font-weight:500;
+  padding:5px 14px;background:#fff;border:none;color:var(--ink-secondary);
+  cursor:pointer;transition:background .15s,color .15s;
+}
+.lang button + button{border-left:1px solid var(--line)}
+.lang button.active{background:var(--ink);color:#fff}
+
+/* ===== hero ===== */
+.hero{padding:96px 0 64px}
+h1{
+  font-size:clamp(40px,6vw,56px);
+  font-weight:700;letter-spacing:-.022em;line-height:1.07;
+}
+.hero-role{
+  margin-top:14px;font-size:clamp(19px,2.4vw,22px);font-weight:600;
+  color:var(--ink-secondary);letter-spacing:-.01em;
+}
+.hero-meta{
+  margin-top:20px;font-size:15px;color:var(--ink-tertiary);
+  display:flex;flex-wrap:wrap;gap:6px 20px;
+}
+.hero-meta span:not(:last-child)::after{content:"·";margin-left:20px;color:var(--line)}
+
+/* ===== sections ===== */
+section{padding:48px 0;border-top:1px solid var(--line-soft)}
+h2{
+  font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;
+  color:var(--ink-tertiary);margin-bottom:24px;
+}
+
+/* about */
+.about-lede{
+  font-size:clamp(21px,2.8vw,26px);font-weight:600;letter-spacing:-.015em;line-height:1.35;
+}
+.about-sub{margin-top:16px;font-size:16px;color:var(--ink-secondary);line-height:1.6;max-width:640px}
+
+/* skills */
+.skills-grid{display:grid;grid-template-columns:1fr 1fr;gap:32px 48px}
+@media(max-width:640px){.skills-grid{grid-template-columns:1fr}}
+.skill h3{font-size:15px;font-weight:600;margin-bottom:6px;letter-spacing:-.01em}
+.skill p{font-size:15px;color:var(--ink-secondary);line-height:1.55}
+
+/* experience */
+.exp-item{padding:28px 0;border-bottom:1px solid var(--line-soft)}
+.exp-item:last-child{border-bottom:none;padding-bottom:0}
+.exp-item:first-of-type{padding-top:0}
+.exp-title{font-size:19px;font-weight:600;letter-spacing:-.015em}
+.exp-org{font-size:15px;color:var(--ink-tertiary);margin-top:2px}
+.exp-list{list-style:none;margin-top:14px}
+.exp-list li{
+  font-size:15px;color:var(--ink-secondary);line-height:1.55;
+  padding:3px 0 3px 18px;position:relative;
+}
+.exp-list li::before{
+  content:"";position:absolute;left:2px;top:13px;width:5px;height:5px;border-radius:50%;
+  background:var(--line);
+}
+
+/* value */
+.value-list{list-style:none}
+.value-list li{
+  font-size:16px;color:var(--ink-secondary);line-height:1.6;
+  padding:10px 0;border-bottom:1px solid var(--line-soft);
+}
+.value-list li:last-child{border-bottom:none}
+.value-list li b{color:var(--ink);font-weight:600}
+
+/* footer */
+footer{border-top:1px solid var(--line-soft);padding:48px 0 56px}
+.foot-title{font-size:clamp(26px,3.6vw,32px);font-weight:700;letter-spacing:-.02em}
+.foot-row{
+  margin-top:20px;display:flex;flex-wrap:wrap;gap:12px 32px;align-items:baseline;
+  font-size:15px;color:var(--ink-secondary);
+}
+.foot-row b{color:var(--ink);font-weight:600}
+a.contact{color:var(--accent);text-decoration:none}
+a.contact:hover{text-decoration:underline}
+.foot-copy{margin-top:40px;font-size:13px;color:var(--ink-tertiary)}
+
+@media print{
+  header{display:none}
+  .hero{padding-top:32px}
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-in">
+    <div class="logo">Dmitrii Ustinov</div>
+    <div class="lang">
+      <button id="btn-ru" class="active">RU</button>
+      <button id="btn-en">EN</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <!-- HERO -->
+  <div class="hero">
+    <h1><span data-i18n="name">Дмитрий Устинов</span></h1>
+    <div class="hero-role" data-i18n="role">Senior Software / Infrastructure Engineer</div>
+    <div class="hero-meta">
+      <span data-i18n="m_loc">Москва, Россия</span>
+      <span data-i18n="m_salary">Зарплата: 10k</span>
+    </div>
+  </div>
+
+  <!-- ABOUT -->
+  <section class="about">
+    <h2 data-i18n="t_about">Обо мне</h2>
+    <p class="about-lede" data-i18n="about_big">Пишу код и работаю с инфраструктурой: Linux, Docker, CI/CD, деплой и поддержка сервисов.</p>
+    <p class="about-sub" data-i18n="about_sub">Опыт backend, embedded, CV/ML и распределённых систем. Быстро разбираюсь в чужом коде, конфигурациях и проблемных местах. Поддерживаю сервисы, автоматизирую процессы и погружаюсь в сложные системы.</p>
+  </section>
+
+  <!-- SKILLS -->
+  <section>
+    <h2 data-i18n="t_skills">Навыки</h2>
+    <div class="skills-grid">
+      <div class="skill"><h3 data-i18n="sk1_t">Linux и инфраструктура</h3><p data-i18n="sk1_p">Серверы, сети, права доступа, systemd, диагностика.</p></div>
+      <div class="skill"><h3 data-i18n="sk2_t">Docker и CI/CD</h3><p data-i18n="sk2_p">Сборка и оптимизация образов, оркестрация контейнеров, пайплайны деплоя.</p></div>
+      <div class="skill"><h3 data-i18n="sk3_t">Автоматизация</h3><p data-i18n="sk3_p">Git, GitHub, bash — сборка, деплой, рутинные операции.</p></div>
+      <div class="skill"><h3 data-i18n="sk4_t">Языки</h3><p data-i18n="sk4_p">C++, Python, TypeScript, Rust, Solidity.</p></div>
+      <div class="skill"><h3 data-i18n="sk5_t">ML / Computer Vision</h3><p data-i18n="sk5_p">Интеграция моделей, YOLO, запуск пайплайнов.</p></div>
+      <div class="skill"><h3 data-i18n="sk6_t">Распределённые системы</h3><p data-i18n="sk6_p">P2P, embedded, IoT, UAV.</p></div>
+    </div>
+  </section>
+
+  <!-- EXPERIENCE -->
+  <section>
+    <h2 data-i18n="t_exp">Опыт</h2>
+
+    <div class="exp-item">
+      <div class="exp-title" data-i18n="e1_title">Software Developer / Embedded Systems Engineer</div>
+      <div class="exp-org" data-i18n="e1_org">Инженерная разработка и инфраструктура</div>
+      <ul class="exp-list">
+        <li data-i18n="e1_1">Разработка ПО на C++, Python, TypeScript и Rust</li>
+        <li data-i18n="e1_2">Linux-серверы, сервисы и сеть</li>
+        <li data-i18n="e1_3">Docker и контейнеризация сервисов</li>
+        <li data-i18n="e1_4">Автоматизация сборки, деплоя и рутинных операций</li>
+        <li data-i18n="e1_5">Интеграция ML/CV-моделей, компьютерное зрение, YOLO</li>
+        <li data-i18n="e1_6">Проекты в робототехнике, автономных системах и UAV</li>
+        <li data-i18n="e1_7">Отладка на стыке кода, инфраструктуры и железа</li>
+      </ul>
+    </div>
+
+    <div class="exp-item">
+      <div class="exp-title" data-i18n="e2_title">Distributed Systems / Blockchain Developer</div>
+      <div class="exp-org" data-i18n="e2_org">Распределённые системы</div>
+      <ul class="exp-list">
+        <li data-i18n="e2_1">P2P и распределённые системы</li>
+        <li data-i18n="e2_2">Сетевые протоколы, надёжность, устойчивость</li>
+        <li data-i18n="e2_3">Системы с высокими требованиями к предсказуемости</li>
+      </ul>
+    </div>
+
+    <div class="exp-item">
+      <div class="exp-title" data-i18n="e3_title">Заведующий лабораторией гуманоидной робототехники</div>
+      <div class="exp-org" data-i18n="e3_org">Технопарк им. Капицы</div>
+      <ul class="exp-list">
+        <li data-i18n="e3_1">Руководство лабораторией</li>
+        <li data-i18n="e3_2">Олимпиады и тренировки по робототехнике, включая Робофест</li>
+        <li data-i18n="e3_3">Подготовка команд к FIRA и RoboCup</li>
+        <li data-i18n="e3_4">Призовые места и победы команд на международных соревнованиях</li>
+        <li data-i18n="e3_5">Направление робофутбола</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- VALUE -->
+  <section>
+    <h2 data-i18n="t_value">Что даю команде</h2>
+    <ul class="value-list">
+      <li data-i18n="v1"><b>Инфраструктура.</b> Поддержка и развитие Linux-инфраструктуры, Docker и CI/CD.</li>
+      <li data-i18n="v2"><b>Разработка.</b> Backend-, инфраструктурный и embedded-код.</li>
+      <li data-i18n="v3"><b>Диагностика.</b> Разбор проблем в коде, конфигурациях и запуске сервисов.</li>
+      <li data-i18n="v4"><b>Скорость.</b> Автоматизация рутины и быстрое погружение в чужой стек.</li>
+    </ul>
+  </section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <div class="foot-title" data-i18n="f_title">Свяжитесь со мной</div>
+    <div class="foot-row">
+      <span data-i18n="f_salary">Зарплата: <b>10k</b></span>
+      <span data-i18n="f_loc">Москва · GMT+3</span>
+    </div>
+    <div class="foot-row">
+      <a class="contact" href="https://t.me/dimaystinov" target="_blank" rel="noopener">Telegram · @dimaystinov</a>
+      <a class="contact" href="mailto:dimaystinov@gmail.com">dimaystinov@gmail.com</a>
+    </div>
+    <div class="foot-copy">© 2026 Dmitrii Ustinov</div>
+  </div>
+</footer>
+
+<script>
+const i18n = {
+  en: {
+    name:"Dmitrii Ustinov",
+    role:"Senior Software / Infrastructure Engineer",
+    m_loc:"Moscow, Russia", m_salary:"Salary: 10k",
+    t_about:"About",
+    about_big:"I write code and run infrastructure: Linux, Docker, CI/CD, deployments and service operations.",
+    about_sub:"Background in backend, embedded, CV/ML and distributed systems. I get up to speed fast in unfamiliar codebases, configurations and trouble spots — keeping services alive, automating processes and diving into complex systems.",
+    t_skills:"Skills",
+    sk1_t:"Linux & Infrastructure", sk1_p:"Servers, networking, permissions, systemd, diagnostics.",
+    sk2_t:"Docker & CI/CD", sk2_p:"Image building and optimization, container orchestration, deployment pipelines.",
+    sk3_t:"Automation", sk3_p:"Git, GitHub, bash — builds, deployments, routine operations.",
+    sk4_t:"Languages", sk4_p:"C++, Python, TypeScript, Rust, Solidity.",
+    sk5_t:"ML / Computer Vision", sk5_p:"Model integration, YOLO, pipeline execution.",
+    sk6_t:"Distributed Systems", sk6_p:"P2P, embedded, IoT, UAV.",
+    t_exp:"Experience",
+    e1_title:"Software Developer / Embedded Systems Engineer",
+    e1_org:"Engineering development & infrastructure",
+    e1_1:"Software development in C++, Python, TypeScript and Rust",
+    e1_2:"Linux servers, services and networking",
+    e1_3:"Docker and service containerization",
+    e1_4:"Automation of builds, deployments and routine operations",
+    e1_5:"ML/CV model integration, computer vision, YOLO",
+    e1_6:"Robotics, autonomous systems and UAV projects",
+    e1_7:"Debugging at the intersection of code, infrastructure and hardware",
+    e2_title:"Distributed Systems / Blockchain Developer",
+    e2_org:"Distributed systems",
+    e2_1:"P2P and distributed systems",
+    e2_2:"Network protocols, reliability, resilience",
+    e2_3:"Systems with strict predictability requirements",
+    e3_title:"Head of the Humanoid Robotics Laboratory",
+    e3_org:"Kapitsa Technopark",
+    e3_1:"Led the laboratory",
+    e3_2:"Robotics olympiads and training sessions, including Robofest",
+    e3_3:"Prepared teams for FIRA and RoboCup",
+    e3_4:"Prizes and victories at international competitions",
+    e3_5:"Robot soccer program",
+    t_value:"What I bring to a team",
+    v1:"<b>Infrastructure.</b> Maintaining and evolving Linux infrastructure, Docker and CI/CD.",
+    v2:"<b>Development.</b> Backend, infrastructure and embedded code.",
+    v3:"<b>Diagnostics.</b> Resolving issues across code, configurations and service runtime.",
+    v4:"<b>Speed.</b> Automating routine work and ramping up fast on unfamiliar stacks.",
+    f_title:"Get in touch",
+    f_salary:"Salary: <b>10k</b>",
+    f_loc:"Moscow · GMT+3"
+  }
+};
+
+function setLang(lang){
+  const dict = i18n[lang];
+  document.querySelectorAll('[data-i18n]').forEach(el=>{
+    const key = el.getAttribute('data-i18n');
+    if(lang === 'ru'){ el.innerHTML = el.dataset.ru; }
+    else if(dict[key] !== undefined){ el.innerHTML = dict[key]; }
+  });
+  document.documentElement.lang = lang;
+  document.getElementById('btn-ru').classList.toggle('active', lang==='ru');
+  document.getElementById('btn-en').classList.toggle('active', lang==='en');
+  localStorage.setItem('lang', lang);
+}
+
+document.querySelectorAll('[data-i18n]').forEach(el=>{ el.dataset.ru = el.innerHTML; });
+document.getElementById('btn-ru').addEventListener('click',()=>setLang('ru'));
+document.getElementById('btn-en').addEventListener('click',()=>setLang('en'));
+
+// Language: manual choice wins; otherwise detect from browser —
+// default English, Russian only when the browser hints at it.
+const savedLang = localStorage.getItem('lang');
+const browserHintsRu = (navigator.languages || [navigator.language || ''])
+  .some(l => /^ru\b/i.test(l));
+setLang(savedLang || (browserHintsRu ? 'ru' : 'en'));
+</script>
+</body>
+</html>
