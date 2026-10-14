@@ -315,7 +315,8 @@ document.getElementById('btn-en').addEventListener('click',()=>setLang('en'));
 const savedLang = localStorage.getItem('lang');
 const browserHintsRu = (navigator.languages || [navigator.language || ''])
   .some(l => /^ru\b/i.test(l));
-setLang(savedLang || (browserHintsRu ? 'ru' : 'en'));
+const requestedLang = new URLSearchParams(location.search).get('lang');
+setLang(['ru','en'].includes(requestedLang) ? requestedLang : (savedLang || (browserHintsRu ? 'ru' : 'en')));
 </script>
 </body>
 </html>

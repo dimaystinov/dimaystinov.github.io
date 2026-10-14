@@ -87,23 +87,19 @@
       ]
     },
     {
-      "year": "2021",
-      "event": "RoboCup Russia Open",
-      "discipline": "Робофутбол",
-      "place": "1",
-      "team": "Robokit A",
-      "source": "S1, S3",
-      "status": "публикация команды или проекта",
-      "scope": "гуманоидная робототехника",
-      "note": "",
+      "year": "2020",
+      "event": "Старт в инновации",
+      "discipline": "XIX научно-практическая конференция",
+      "place": "призёр",
+      "team": "Даниел Бабаев; руководители Азер Бабаев, Дмитрий Устинов",
+      "source": "D36",
+      "status": "именной диплом из личного архива",
+      "scope": "научно-практическая конференция",
+      "note": "Дмитрий Устинов указан руководителем / наставником; результат команды учтён один раз.",
       "sources": [
         {
-          "label": "Исторический сайт кружка RoboKit и его индексируемые публикации 2019–2021",
-          "url": "https://robokit.su/"
-        },
-        {
-          "label": "Карточка проекта школьного центра Робокит — Университет 2035",
-          "url": "https://pt.2035.university/project/skolnyj-centr-iskusstvennogo-intellekta-i-robototehniki-robokit"
+          "label": "Именной диплом Дмитрия Устинова · документ 36",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-36"
         }
       ]
     },
@@ -125,11 +121,83 @@
       ]
     },
     {
+      "year": "2021",
+      "event": "RoboCup Russia Open",
+      "discipline": "RCAP Junior Humanoid Soccer",
+      "place": "2",
+      "team": "Robokit C",
+      "source": "D30",
+      "status": "именной диплом из личного архива",
+      "scope": "гуманоидная робототехника",
+      "note": "Дмитрий Устинов указан руководителем / наставником; результат команды учтён один раз.",
+      "sources": [
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 30",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-30"
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "event": "RoboCup Russia Open",
+      "discipline": "Робофутбол",
+      "place": "1",
+      "team": "Robokit A",
+      "source": "S1, S3",
+      "status": "публикация команды или проекта",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Исторический сайт кружка RoboKit и его индексируемые публикации 2019–2021",
+          "url": "https://robokit.su/"
+        },
+        {
+          "label": "Карточка проекта школьного центра Робокит — Университет 2035",
+          "url": "https://pt.2035.university/project/skolnyj-centr-iskusstvennogo-intellekta-i-robototehniki-robokit"
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "event": "РобоКап Россия",
+      "discipline": "Junior Humanoid Soccer",
+      "place": "3",
+      "team": "Robokit C",
+      "source": "D28",
+      "status": "именной диплом из личного архива",
+      "scope": "гуманоидная робототехника",
+      "note": "Дмитрий Устинов указан руководителем / наставником; результат команды учтён один раз.",
+      "sources": [
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 28",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-28"
+        }
+      ]
+    },
+    {
       "year": "2023",
       "event": "RoboScience Hackathon",
-      "discipline": "HuroCup Sprint",
+      "discipline": "HuroCup All Round",
+      "place": "2",
+      "team": "Robokit A",
+      "source": "S4",
+      "status": "протокол",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Результаты RoboScience Hackathon 2023",
+          "url": "https://www.firarussia.ru/rsh2023"
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "event": "RoboScience Hackathon",
+      "discipline": "HuroCup All Round",
       "place": "3",
-      "team": "Robokit F",
+      "team": "Robokit E",
       "source": "S4",
       "status": "протокол",
       "scope": "гуманоидная робототехника",
@@ -161,43 +229,9 @@
     {
       "year": "2023",
       "event": "RoboScience Hackathon",
-      "discipline": "HuroCup Weight Lifting",
-      "place": "2",
+      "discipline": "HuroCup Marathon",
+      "place": "3",
       "team": "Robokit A",
-      "source": "S4",
-      "status": "протокол",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Результаты RoboScience Hackathon 2023",
-          "url": "https://www.firarussia.ru/rsh2023"
-        }
-      ]
-    },
-    {
-      "year": "2023",
-      "event": "RoboScience Hackathon",
-      "discipline": "HuroCup Weight Lifting",
-      "place": "3",
-      "team": "Robokit E",
-      "source": "S4",
-      "status": "протокол",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Результаты RoboScience Hackathon 2023",
-          "url": "https://www.firarussia.ru/rsh2023"
-        }
-      ]
-    },
-    {
-      "year": "2023",
-      "event": "RoboScience Hackathon",
-      "discipline": "HuroCup Weight Lifting",
-      "place": "3",
-      "team": "Robokit F",
       "source": "S4",
       "status": "протокол",
       "scope": "гуманоидная робототехника",
@@ -215,6 +249,23 @@
       "discipline": "HuroCup Penalty Kick",
       "place": "3",
       "team": "Robokit E",
+      "source": "S4",
+      "status": "протокол",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Результаты RoboScience Hackathon 2023",
+          "url": "https://www.firarussia.ru/rsh2023"
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "event": "RoboScience Hackathon",
+      "discipline": "HuroCup Sprint",
+      "place": "3",
+      "team": "Robokit F",
       "source": "S4",
       "status": "протокол",
       "scope": "гуманоидная робототехника",
@@ -280,24 +331,7 @@
     {
       "year": "2023",
       "event": "RoboScience Hackathon",
-      "discipline": "HuroCup Marathon",
-      "place": "3",
-      "team": "Robokit A",
-      "source": "S4",
-      "status": "протокол",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Результаты RoboScience Hackathon 2023",
-          "url": "https://www.firarussia.ru/rsh2023"
-        }
-      ]
-    },
-    {
-      "year": "2023",
-      "event": "RoboScience Hackathon",
-      "discipline": "HuroCup All Round",
+      "discipline": "HuroCup Weight Lifting",
       "place": "2",
       "team": "Robokit A",
       "source": "S4",
@@ -314,7 +348,7 @@
     {
       "year": "2023",
       "event": "RoboScience Hackathon",
-      "discipline": "HuroCup All Round",
+      "discipline": "HuroCup Weight Lifting",
       "place": "3",
       "team": "Robokit E",
       "source": "S4",
@@ -329,104 +363,87 @@
       ]
     },
     {
-      "year": "2024",
-      "event": "FIRA RoboWorld Cup Бразилия",
-      "discipline": "Humanoid Junior",
-      "place": "1",
-      "team": "ROBOKIT A — Даниел Бабаев",
-      "source": "L89",
-      "status": "публикация кружка",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Публикация команды",
-          "url": "https://t.me/robofootball/89"
-        }
-      ]
-    },
-    {
-      "year": "2024",
-      "event": "FIRA RoboWorld Cup Бразилия",
-      "discipline": "Humanoid Junior",
-      "place": "2",
-      "team": "ROBOKIT B — Никита Комков",
-      "source": "L89",
-      "status": "публикация кружка",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Публикация команды",
-          "url": "https://t.me/robofootball/89"
-        }
-      ]
-    },
-    {
-      "year": "2024",
-      "event": "РобоКап Россия",
-      "discipline": "Junior Humanoid Soccer",
-      "place": "1",
-      "team": "ROBOKIT A",
-      "source": "S5",
+      "year": "2023",
+      "event": "RoboScience Hackathon",
+      "discipline": "HuroCup Weight Lifting",
+      "place": "3",
+      "team": "Robokit F",
+      "source": "S4",
       "status": "протокол",
       "scope": "гуманоидная робототехника",
       "note": "",
       "sources": [
         {
-          "label": "Результаты РобоКап Россия 2024 — страница 2",
-          "url": "https://storage.tusur.ru/files/174305/Itogi.pdf"
+          "label": "Результаты RoboScience Hackathon 2023",
+          "url": "https://www.firarussia.ru/rsh2023"
         }
       ]
     },
     {
-      "year": "2024",
+      "year": "2023",
       "event": "РобоКап Россия",
       "discipline": "Junior Humanoid Soccer",
       "place": "2",
-      "team": "ROBOKIT B",
-      "source": "S5",
-      "status": "протокол",
+      "team": "Robokit B",
+      "source": "D32",
+      "status": "именной диплом из личного архива",
       "scope": "гуманоидная робототехника",
-      "note": "",
+      "note": "Дмитрий Устинов указан руководителем / наставником; результат команды учтён один раз.",
       "sources": [
         {
-          "label": "Результаты РобоКап Россия 2024 — страница 2",
-          "url": "https://storage.tusur.ru/files/174305/Itogi.pdf"
+          "label": "Именной диплом Дмитрия Устинова · документ 32",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-32"
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "event": "РобоКап Россия",
+      "discipline": "Junior Humanoid Soccer",
+      "place": "3",
+      "team": "Robokit A",
+      "source": "D6",
+      "status": "именной диплом из личного архива",
+      "scope": "гуманоидная робототехника",
+      "note": "Дмитрий Устинов указан руководителем / наставником; результат команды учтён один раз.",
+      "sources": [
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 6",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-6"
         }
       ]
     },
     {
       "year": "2024",
-      "event": "РобоКап Россия",
-      "discipline": "Junior Humanoid Soccer Entry",
-      "place": "2",
-      "team": "ROBOKIT B",
-      "source": "S5",
-      "status": "протокол",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Результаты РобоКап Россия 2024 — страница 2",
-          "url": "https://storage.tusur.ru/files/174305/Itogi.pdf"
-        }
-      ]
-    },
-    {
-      "year": "2024",
-      "event": "РобоКап Россия",
-      "discipline": "FIRA многоборье общий зачет",
+      "event": "FIRA Eurasia Ван",
+      "discipline": "Взрослая лига",
       "place": "1",
-      "team": "Команды RoboKit",
-      "source": "L109",
+      "team": "RoboKit — Иван Любимов",
+      "source": "L155",
       "status": "публикация кружка",
       "scope": "гуманоидная робототехника",
       "note": "",
       "sources": [
         {
           "label": "Публикация команды",
-          "url": "https://t.me/robofootball/109"
+          "url": "https://t.me/robofootball/155"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "event": "FIRA Eurasia Ван",
+      "discipline": "Юношеская лига",
+      "place": "1",
+      "team": "RoboKit — Иван Любимов",
+      "source": "L155",
+      "status": "публикация кружка",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/155"
         }
       ]
     },
@@ -483,35 +500,35 @@
     },
     {
       "year": "2024",
-      "event": "FIRA Eurasia Ван",
-      "discipline": "Юношеская лига",
+      "event": "FIRA RoboWorld Cup Бразилия",
+      "discipline": "Humanoid Junior",
       "place": "1",
-      "team": "RoboKit — Иван Любимов",
-      "source": "L155",
+      "team": "ROBOKIT A — Даниел Бабаев",
+      "source": "L89",
       "status": "публикация кружка",
       "scope": "гуманоидная робототехника",
       "note": "",
       "sources": [
         {
           "label": "Публикация команды",
-          "url": "https://t.me/robofootball/155"
+          "url": "https://t.me/robofootball/89"
         }
       ]
     },
     {
       "year": "2024",
-      "event": "FIRA Eurasia Ван",
-      "discipline": "Взрослая лига",
-      "place": "1",
-      "team": "RoboKit — Иван Любимов",
-      "source": "L155",
+      "event": "FIRA RoboWorld Cup Бразилия",
+      "discipline": "Humanoid Junior",
+      "place": "2",
+      "team": "ROBOKIT B — Никита Комков",
+      "source": "L89",
       "status": "публикация кружка",
       "scope": "гуманоидная робототехника",
       "note": "",
       "sources": [
         {
           "label": "Публикация команды",
-          "url": "https://t.me/robofootball/155"
+          "url": "https://t.me/robofootball/89"
         }
       ]
     },
@@ -572,91 +589,6 @@
       "discipline": "HuroCup Junior Basketball",
       "place": "3",
       "team": "Robokit F",
-      "source": "S6",
-      "status": "протокол",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Результаты RoboScience Hackathon 2024",
-          "url": "https://www.firarussia.ru/rsh2024_eng"
-        }
-      ]
-    },
-    {
-      "year": "2024",
-      "event": "RoboScience Hackathon",
-      "discipline": "HuroCup Junior Sprint",
-      "place": "2",
-      "team": "Robokit A",
-      "source": "S6",
-      "status": "протокол",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Результаты RoboScience Hackathon 2024",
-          "url": "https://www.firarussia.ru/rsh2024_eng"
-        }
-      ]
-    },
-    {
-      "year": "2024",
-      "event": "RoboScience Hackathon",
-      "discipline": "HuroCup Junior Triple Jump",
-      "place": "1",
-      "team": "Robokit E",
-      "source": "S6",
-      "status": "протокол",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Результаты RoboScience Hackathon 2024",
-          "url": "https://www.firarussia.ru/rsh2024_eng"
-        }
-      ]
-    },
-    {
-      "year": "2024",
-      "event": "RoboScience Hackathon",
-      "discipline": "HuroCup Junior Triple Jump",
-      "place": "2",
-      "team": "Robokit A",
-      "source": "S6",
-      "status": "протокол",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Результаты RoboScience Hackathon 2024",
-          "url": "https://www.firarussia.ru/rsh2024_eng"
-        }
-      ]
-    },
-    {
-      "year": "2024",
-      "event": "RoboScience Hackathon",
-      "discipline": "HuroCup Junior Triple Jump",
-      "place": "3",
-      "team": "Robokit B",
-      "source": "S6",
-      "status": "протокол",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Результаты RoboScience Hackathon 2024",
-          "url": "https://www.firarussia.ru/rsh2024_eng"
-        }
-      ]
-    },
-    {
-      "year": "2024",
-      "event": "RoboScience Hackathon",
-      "discipline": "HuroCup Junior Weight Lifting",
-      "place": "2",
-      "team": "Robokit A",
       "source": "S6",
       "status": "протокол",
       "scope": "гуманоидная робототехника",
@@ -756,7 +688,109 @@
     {
       "year": "2024",
       "event": "RoboScience Hackathon",
+      "discipline": "HuroCup Junior Sprint",
+      "place": "2",
+      "team": "Robokit A",
+      "source": "S6",
+      "status": "протокол",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Результаты RoboScience Hackathon 2024",
+          "url": "https://www.firarussia.ru/rsh2024_eng"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "event": "RoboScience Hackathon",
+      "discipline": "HuroCup Junior Triple Jump",
+      "place": "1",
+      "team": "Robokit E",
+      "source": "S6",
+      "status": "протокол",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Результаты RoboScience Hackathon 2024",
+          "url": "https://www.firarussia.ru/rsh2024_eng"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "event": "RoboScience Hackathon",
+      "discipline": "HuroCup Junior Triple Jump",
+      "place": "2",
+      "team": "Robokit A",
+      "source": "S6",
+      "status": "протокол",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Результаты RoboScience Hackathon 2024",
+          "url": "https://www.firarussia.ru/rsh2024_eng"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "event": "RoboScience Hackathon",
+      "discipline": "HuroCup Junior Triple Jump",
+      "place": "3",
+      "team": "Robokit B",
+      "source": "S6",
+      "status": "протокол",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Результаты RoboScience Hackathon 2024",
+          "url": "https://www.firarussia.ru/rsh2024_eng"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "event": "RoboScience Hackathon",
+      "discipline": "HuroCup Junior Weight Lifting",
+      "place": "2",
+      "team": "Robokit A",
+      "source": "S6",
+      "status": "протокол",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Результаты RoboScience Hackathon 2024",
+          "url": "https://www.firarussia.ru/rsh2024_eng"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "event": "RoboScience Hackathon",
       "discipline": "HuroCup Pro All Round",
+      "place": "1",
+      "team": "Robokit A",
+      "source": "S6",
+      "status": "протокол",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Результаты RoboScience Hackathon 2024",
+          "url": "https://www.firarussia.ru/rsh2024_eng"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "event": "RoboScience Hackathon",
+      "discipline": "HuroCup Pro Marathon",
       "place": "1",
       "team": "Robokit A",
       "source": "S6",
@@ -824,23 +858,6 @@
     {
       "year": "2024",
       "event": "RoboScience Hackathon",
-      "discipline": "HuroCup Pro Marathon",
-      "place": "1",
-      "team": "Robokit A",
-      "source": "S6",
-      "status": "протокол",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Результаты RoboScience Hackathon 2024",
-          "url": "https://www.firarussia.ru/rsh2024_eng"
-        }
-      ]
-    },
-    {
-      "year": "2024",
-      "event": "RoboScience Hackathon",
       "discipline": "Junior Humanoid Soccer Entry",
       "place": "2",
       "team": "Robokit L",
@@ -869,6 +886,539 @@
         {
           "label": "Результаты RoboScience Hackathon 2024",
           "url": "https://www.firarussia.ru/rsh2024_eng"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "event": "RoboScience Hackathon",
+      "discipline": "Миссия невыполнима",
+      "place": "2",
+      "team": "Robokit Z",
+      "source": "S6",
+      "status": "протокол",
+      "scope": "смежная команда с названием Robokit",
+      "note": "Принадлежность конкретно лаборатории гуманоидной робототехники требует уточнения",
+      "sources": [
+        {
+          "label": "Результаты RoboScience Hackathon 2024",
+          "url": "https://www.firarussia.ru/rsh2024_eng"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "event": "РобоКап Россия",
+      "discipline": "FIRA многоборье общий зачет",
+      "place": "1",
+      "team": "Команды RoboKit",
+      "source": "L109",
+      "status": "публикация кружка",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/109"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "event": "РобоКап Россия",
+      "discipline": "Junior Humanoid Soccer",
+      "place": "1",
+      "team": "ROBOKIT A",
+      "source": "S5",
+      "status": "протокол",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Результаты РобоКап Россия 2024 — страница 2",
+          "url": "https://storage.tusur.ru/files/174305/Itogi.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "event": "РобоКап Россия",
+      "discipline": "Junior Humanoid Soccer",
+      "place": "2",
+      "team": "ROBOKIT B",
+      "source": "S5",
+      "status": "протокол",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Результаты РобоКап Россия 2024 — страница 2",
+          "url": "https://storage.tusur.ru/files/174305/Itogi.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "event": "РобоКап Россия",
+      "discipline": "Junior Humanoid Soccer Entry",
+      "place": "2",
+      "team": "ROBOKIT B",
+      "source": "S5",
+      "status": "протокол",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Результаты РобоКап Россия 2024 — страница 2",
+          "url": "https://storage.tusur.ru/files/174305/Itogi.pdf"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "FIRA RoboWorld Cup Дегу",
+      "discipline": "Пенальти",
+      "place": "1",
+      "team": "Лицейская команда",
+      "source": "L300",
+      "status": "публикация кружка",
+      "scope": "гуманоидная робототехника",
+      "note": "Распределение результатов между участниками и подкатегориями не указано",
+      "sources": [
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/300"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "FIRA RoboWorld Cup Дегу",
+      "discipline": "Пенальти",
+      "place": "3",
+      "team": "Лицейская команда",
+      "source": "L300",
+      "status": "публикация кружка",
+      "scope": "гуманоидная робототехника",
+      "note": "Распределение результатов между участниками и подкатегориями не указано",
+      "sources": [
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/300"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "FIRA RoboWorld Cup Дегу",
+      "discipline": "Спринт",
+      "place": "3",
+      "team": "Лицейская команда",
+      "source": "L300",
+      "status": "публикация кружка",
+      "scope": "гуманоидная робототехника",
+      "note": "Распределение результатов между участниками и подкатегориями не указано",
+      "sources": [
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/300"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "FIRA RoboWorld Cup Дегу",
+      "discipline": "Тройной прыжок",
+      "place": "3",
+      "team": "Лицейская команда",
+      "source": "L300",
+      "status": "публикация кружка",
+      "scope": "гуманоидная робототехника",
+      "note": "Распределение результатов между участниками и подкатегориями не указано",
+      "sources": [
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/300"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "FIRA Тайвань",
+      "discipline": "HuroCup Junior All Round",
+      "place": "1",
+      "team": "Robokit A — Никита Комков, Илья Борисов",
+      "source": "L246, L247",
+      "status": "публикация кружка",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/246"
+        },
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/247"
+        },
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 14",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-14"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "FIRA Тайвань",
+      "discipline": "HuroCup Junior All Round",
+      "place": "2",
+      "team": "Robokit C — Максим Косарев, Эрик Мустакимов",
+      "source": "L246, L247",
+      "status": "публикация кружка",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/246"
+        },
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/247"
+        },
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 18",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-18"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "FIRA Тайвань",
+      "discipline": "HuroCup Junior All Round",
+      "place": "3",
+      "team": "Robokit B — Даниил Воробьёв, Андрей Фирстов",
+      "source": "L246, L247",
+      "status": "публикация кружка",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/246"
+        },
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/247"
+        },
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 17",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-17"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "FIRA Тайвань",
+      "discipline": "HuroCup Junior Basketball",
+      "place": "1",
+      "team": "Robokit C — Максим Косарев, Эрик Мустакимов",
+      "source": "D21",
+      "status": "именной диплом из личного архива",
+      "scope": "гуманоидная робототехника",
+      "note": "Дмитрий Устинов указан руководителем / наставником; результат команды учтён один раз.",
+      "sources": [
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 21",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-21"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "FIRA Тайвань",
+      "discipline": "HuroCup Junior Basketball",
+      "place": "2",
+      "team": "Robokit A — Никита Комков, Илья Борисов",
+      "source": "D16",
+      "status": "именной диплом из личного архива",
+      "scope": "гуманоидная робототехника",
+      "note": "Дмитрий Устинов указан руководителем / наставником; результат команды учтён один раз.",
+      "sources": [
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 16",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-16"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "FIRA Тайвань",
+      "discipline": "HuroCup Junior Marathon",
+      "place": "1",
+      "team": "Robokit C — Максим Косарев, Эрик Мустакимов",
+      "source": "D19",
+      "status": "именной диплом из личного архива",
+      "scope": "гуманоидная робототехника",
+      "note": "Дмитрий Устинов указан руководителем / наставником; результат команды учтён один раз.",
+      "sources": [
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 19",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-19"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "FIRA Тайвань",
+      "discipline": "HuroCup Junior Marathon",
+      "place": "2",
+      "team": "Robokit A — Никита Комков, Илья Борисов",
+      "source": "D13",
+      "status": "именной диплом из личного архива",
+      "scope": "гуманоидная робототехника",
+      "note": "Дмитрий Устинов указан руководителем / наставником; результат команды учтён один раз.",
+      "sources": [
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 13",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-13"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "FIRA Тайвань",
+      "discipline": "HuroCup Junior Penalty Kick",
+      "place": "1",
+      "team": "Robokit A — Никита Комков, Илья Борисов",
+      "source": "D15",
+      "status": "именной диплом из личного архива",
+      "scope": "гуманоидная робототехника",
+      "note": "Дмитрий Устинов указан руководителем / наставником; результат команды учтён один раз.",
+      "sources": [
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 15",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-15"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "FIRA Тайвань",
+      "discipline": "HuroCup Junior Sprint",
+      "place": "1",
+      "team": "Robokit A — Никита Комков, Илья Борисов",
+      "source": "D22",
+      "status": "именной диплом из личного архива",
+      "scope": "гуманоидная робототехника",
+      "note": "Дмитрий Устинов указан руководителем / наставником; результат команды учтён один раз.",
+      "sources": [
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 22",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-22"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "FIRA Тайвань",
+      "discipline": "HuroCup Junior Weight Lifting",
+      "place": "1",
+      "team": "Robokit B — Даниил Воробьёв, Андрей Фирстов",
+      "source": "D20",
+      "status": "именной диплом из личного архива",
+      "scope": "гуманоидная робототехника",
+      "note": "Дмитрий Устинов указан руководителем / наставником; результат команды учтён один раз.",
+      "sources": [
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 20",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-20"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "RoboScience Hackathon",
+      "discipline": "CoFeRoS Soccer Junior",
+      "place": "1",
+      "team": "Алексей Ягубов",
+      "source": "S8",
+      "status": "протокол",
+      "scope": "личный смежный результат",
+      "note": "",
+      "sources": [
+        {
+          "label": "Результаты RoboScience Hackathon 2025",
+          "url": "https://coferos.org/roboscience-hackathon-2024-2/"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "RoboScience Hackathon",
+      "discipline": "CoFeRos Soccer Humanoid",
+      "place": "1",
+      "team": "Робокит Б — Алексей Ягубов, Эрик Мустакимов",
+      "source": "S8",
+      "status": "протокол",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Результаты RoboScience Hackathon 2025",
+          "url": "https://coferos.org/roboscience-hackathon-2024-2/"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "RoboScience Hackathon",
+      "discipline": "CoFeRos Soccer Humanoid",
+      "place": "2",
+      "team": "Робокит А — Илья Борисов, Иван Рубцов",
+      "source": "S8",
+      "status": "протокол",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Результаты RoboScience Hackathon 2025",
+          "url": "https://coferos.org/roboscience-hackathon-2024-2/"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "RoboScience Hackathon",
+      "discipline": "CoFeRos Soccer Humanoid",
+      "place": "3",
+      "team": "Робокит В — Ангелина Гузнина, Серафима Стрыгина",
+      "source": "S8",
+      "status": "протокол",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Результаты RoboScience Hackathon 2025",
+          "url": "https://coferos.org/roboscience-hackathon-2024-2/"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "RoboScience Hackathon",
+      "discipline": "HuroCup Junior All Round",
+      "place": "1",
+      "team": "Робокит А — Иван Рубцов, Илья Борисов",
+      "source": "S8",
+      "status": "протокол",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Результаты RoboScience Hackathon 2025",
+          "url": "https://coferos.org/roboscience-hackathon-2024-2/"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "RoboScience Hackathon",
+      "discipline": "HuroCup Junior All Round",
+      "place": "2",
+      "team": "Робокит Б — Алексей Ягубов, Эрик Мустакимов",
+      "source": "S8",
+      "status": "протокол",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Результаты RoboScience Hackathon 2025",
+          "url": "https://coferos.org/roboscience-hackathon-2024-2/"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "РобоКап Россия",
+      "discipline": "HuroCup Sprint",
+      "place": "2",
+      "team": "Робокит В",
+      "source": "S7, L227",
+      "status": "протокол",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Результаты РобоКап Россия 2025 — страницы 2 и 3",
+          "url": "https://storage.tusur.ru/files/180564/2025.pdf"
+        },
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/227"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "РобоКап Россия",
+      "discipline": "HuroCup Triple Jump",
+      "place": "1",
+      "team": "Робокит Б",
+      "source": "S7, L227",
+      "status": "протокол",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Результаты РобоКап Россия 2025 — страницы 2 и 3",
+          "url": "https://storage.tusur.ru/files/180564/2025.pdf"
+        },
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/227"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "РобоКап Россия",
+      "discipline": "HuroCup Triple Jump",
+      "place": "2",
+      "team": "Робокит А",
+      "source": "S7, L227",
+      "status": "протокол",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Результаты РобоКап Россия 2025 — страницы 2 и 3",
+          "url": "https://storage.tusur.ru/files/180564/2025.pdf"
+        },
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/227"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "РобоКап Россия",
+      "discipline": "HuroCup Triple Jump",
+      "place": "3",
+      "team": "Робокит В",
+      "source": "S7, L227",
+      "status": "протокол",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Результаты РобоКап Россия 2025 — страницы 2 и 3",
+          "url": "https://storage.tusur.ru/files/180564/2025.pdf"
+        },
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/227"
         }
       ]
     },
@@ -979,466 +1529,6 @@
     },
     {
       "year": "2025",
-      "event": "РобоКап Россия",
-      "discipline": "HuroCup Triple Jump",
-      "place": "1",
-      "team": "Робокит Б",
-      "source": "S7, L227",
-      "status": "протокол",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Результаты РобоКап Россия 2025 — страницы 2 и 3",
-          "url": "https://storage.tusur.ru/files/180564/2025.pdf"
-        },
-        {
-          "label": "Публикация команды",
-          "url": "https://t.me/robofootball/227"
-        }
-      ]
-    },
-    {
-      "year": "2025",
-      "event": "РобоКап Россия",
-      "discipline": "HuroCup Triple Jump",
-      "place": "2",
-      "team": "Робокит А",
-      "source": "S7, L227",
-      "status": "протокол",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Результаты РобоКап Россия 2025 — страницы 2 и 3",
-          "url": "https://storage.tusur.ru/files/180564/2025.pdf"
-        },
-        {
-          "label": "Публикация команды",
-          "url": "https://t.me/robofootball/227"
-        }
-      ]
-    },
-    {
-      "year": "2025",
-      "event": "РобоКап Россия",
-      "discipline": "HuroCup Triple Jump",
-      "place": "3",
-      "team": "Робокит В",
-      "source": "S7, L227",
-      "status": "протокол",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Результаты РобоКап Россия 2025 — страницы 2 и 3",
-          "url": "https://storage.tusur.ru/files/180564/2025.pdf"
-        },
-        {
-          "label": "Публикация команды",
-          "url": "https://t.me/robofootball/227"
-        }
-      ]
-    },
-    {
-      "year": "2025",
-      "event": "РобоКап Россия",
-      "discipline": "HuroCup Sprint",
-      "place": "2",
-      "team": "Робокит В",
-      "source": "S7, L227",
-      "status": "протокол",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Результаты РобоКап Россия 2025 — страницы 2 и 3",
-          "url": "https://storage.tusur.ru/files/180564/2025.pdf"
-        },
-        {
-          "label": "Публикация команды",
-          "url": "https://t.me/robofootball/227"
-        }
-      ]
-    },
-    {
-      "year": "2025",
-      "event": "FIRA Тайвань",
-      "discipline": "Школьная лига гуманоидных роботов",
-      "place": "1",
-      "team": "Никита Комков и Илья Борисов",
-      "source": "L246, L247",
-      "status": "публикация кружка",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Публикация команды",
-          "url": "https://t.me/robofootball/246"
-        },
-        {
-          "label": "Публикация команды",
-          "url": "https://t.me/robofootball/247"
-        }
-      ]
-    },
-    {
-      "year": "2025",
-      "event": "FIRA Тайвань",
-      "discipline": "Школьная лига гуманоидных роботов",
-      "place": "2",
-      "team": "Максим Косарев и Эрик Мустакимов",
-      "source": "L246, L247",
-      "status": "публикация кружка",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Публикация команды",
-          "url": "https://t.me/robofootball/246"
-        },
-        {
-          "label": "Публикация команды",
-          "url": "https://t.me/robofootball/247"
-        }
-      ]
-    },
-    {
-      "year": "2025",
-      "event": "FIRA Тайвань",
-      "discipline": "Школьная лига гуманоидных роботов",
-      "place": "3",
-      "team": "Андрей Фирстов",
-      "source": "L246, L247",
-      "status": "публикация кружка",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Публикация команды",
-          "url": "https://t.me/robofootball/246"
-        },
-        {
-          "label": "Публикация команды",
-          "url": "https://t.me/robofootball/247"
-        }
-      ]
-    },
-    {
-      "year": "2025",
-      "event": "FIRA RoboWorld Cup Дегу",
-      "discipline": "Пенальти",
-      "place": "1",
-      "team": "Лицейская команда",
-      "source": "L300",
-      "status": "публикация кружка",
-      "scope": "гуманоидная робототехника",
-      "note": "Распределение результатов между участниками и подкатегориями не указано",
-      "sources": [
-        {
-          "label": "Публикация команды",
-          "url": "https://t.me/robofootball/300"
-        }
-      ]
-    },
-    {
-      "year": "2025",
-      "event": "FIRA RoboWorld Cup Дегу",
-      "discipline": "Тройной прыжок",
-      "place": "3",
-      "team": "Лицейская команда",
-      "source": "L300",
-      "status": "публикация кружка",
-      "scope": "гуманоидная робототехника",
-      "note": "Распределение результатов между участниками и подкатегориями не указано",
-      "sources": [
-        {
-          "label": "Публикация команды",
-          "url": "https://t.me/robofootball/300"
-        }
-      ]
-    },
-    {
-      "year": "2025",
-      "event": "FIRA RoboWorld Cup Дегу",
-      "discipline": "Спринт",
-      "place": "3",
-      "team": "Лицейская команда",
-      "source": "L300",
-      "status": "публикация кружка",
-      "scope": "гуманоидная робототехника",
-      "note": "Распределение результатов между участниками и подкатегориями не указано",
-      "sources": [
-        {
-          "label": "Публикация команды",
-          "url": "https://t.me/robofootball/300"
-        }
-      ]
-    },
-    {
-      "year": "2025",
-      "event": "FIRA RoboWorld Cup Дегу",
-      "discipline": "Пенальти",
-      "place": "3",
-      "team": "Лицейская команда",
-      "source": "L300",
-      "status": "публикация кружка",
-      "scope": "гуманоидная робототехника",
-      "note": "Распределение результатов между участниками и подкатегориями не указано",
-      "sources": [
-        {
-          "label": "Публикация команды",
-          "url": "https://t.me/robofootball/300"
-        }
-      ]
-    },
-    {
-      "year": "2025",
-      "event": "RoboScience Hackathon",
-      "discipline": "CoFeRos Soccer Humanoid",
-      "place": "1",
-      "team": "Робокит Б — Алексей Ягубов, Эрик Мустакимов",
-      "source": "S8",
-      "status": "протокол",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Результаты RoboScience Hackathon 2025",
-          "url": "https://coferos.org/roboscience-hackathon-2024-2/"
-        }
-      ]
-    },
-    {
-      "year": "2025",
-      "event": "RoboScience Hackathon",
-      "discipline": "CoFeRos Soccer Humanoid",
-      "place": "2",
-      "team": "Робокит А — Илья Борисов, Иван Рубцов",
-      "source": "S8",
-      "status": "протокол",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Результаты RoboScience Hackathon 2025",
-          "url": "https://coferos.org/roboscience-hackathon-2024-2/"
-        }
-      ]
-    },
-    {
-      "year": "2025",
-      "event": "RoboScience Hackathon",
-      "discipline": "CoFeRos Soccer Humanoid",
-      "place": "3",
-      "team": "Робокит В — Ангелина Гузнина, Серафима Стрыгина",
-      "source": "S8",
-      "status": "протокол",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Результаты RoboScience Hackathon 2025",
-          "url": "https://coferos.org/roboscience-hackathon-2024-2/"
-        }
-      ]
-    },
-    {
-      "year": "2025",
-      "event": "RoboScience Hackathon",
-      "discipline": "HuroCup Junior All Round",
-      "place": "1",
-      "team": "Робокит А — Иван Рубцов, Илья Борисов",
-      "source": "S8",
-      "status": "протокол",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Результаты RoboScience Hackathon 2025",
-          "url": "https://coferos.org/roboscience-hackathon-2024-2/"
-        }
-      ]
-    },
-    {
-      "year": "2025",
-      "event": "RoboScience Hackathon",
-      "discipline": "HuroCup Junior All Round",
-      "place": "2",
-      "team": "Робокит Б — Алексей Ягубов, Эрик Мустакимов",
-      "source": "S8",
-      "status": "протокол",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Результаты RoboScience Hackathon 2025",
-          "url": "https://coferos.org/roboscience-hackathon-2024-2/"
-        }
-      ]
-    },
-    {
-      "year": "2026",
-      "event": "РобоКап Россия",
-      "discipline": "Junior Humanoid Soccer",
-      "place": "1",
-      "team": "Робокит Б — Иван Рубцов, Степан Якимов",
-      "source": "S9, L382",
-      "status": "протокол",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Итоговый протокол РобоКап Россия 2026 — страницы 5 и 6",
-          "url": "https://storage.tusur.ru/files/189255/35341.pdf"
-        },
-        {
-          "label": "Публикация команды",
-          "url": "https://t.me/robofootball/382"
-        }
-      ]
-    },
-    {
-      "year": "2026",
-      "event": "РобоКап Россия",
-      "discipline": "Junior Humanoid Soccer",
-      "place": "2",
-      "team": "Робокит А — Алексей Ягубов, Фёдор Девятов",
-      "source": "S9, L382",
-      "status": "протокол",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Итоговый протокол РобоКап Россия 2026 — страницы 5 и 6",
-          "url": "https://storage.tusur.ru/files/189255/35341.pdf"
-        },
-        {
-          "label": "Публикация команды",
-          "url": "https://t.me/robofootball/382"
-        }
-      ]
-    },
-    {
-      "year": "2026",
-      "event": "РобоКап Россия",
-      "discipline": "Junior Humanoid Soccer Entry",
-      "place": "3",
-      "team": "Робокит В — Алексей Ягубов",
-      "source": "S9, L382",
-      "status": "протокол",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Итоговый протокол РобоКап Россия 2026 — страницы 5 и 6",
-          "url": "https://storage.tusur.ru/files/189255/35341.pdf"
-        },
-        {
-          "label": "Публикация команды",
-          "url": "https://t.me/robofootball/382"
-        }
-      ]
-    },
-    {
-      "year": "2026",
-      "event": "РобоКап Россия",
-      "discipline": "FIRA HuroCup Sprint",
-      "place": "3",
-      "team": "Робокит Д — Иван Рубцов",
-      "source": "S9, L382",
-      "status": "протокол",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Итоговый протокол РобоКап Россия 2026 — страницы 5 и 6",
-          "url": "https://storage.tusur.ru/files/189255/35341.pdf"
-        },
-        {
-          "label": "Публикация команды",
-          "url": "https://t.me/robofootball/382"
-        }
-      ]
-    },
-    {
-      "year": "2026",
-      "event": "РобоКап Россия",
-      "discipline": "FIRA HuroCup Marathon",
-      "place": "2",
-      "team": "Робокит В — Алексей Ягубов",
-      "source": "S9, L382",
-      "status": "протокол",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Итоговый протокол РобоКап Россия 2026 — страницы 5 и 6",
-          "url": "https://storage.tusur.ru/files/189255/35341.pdf"
-        },
-        {
-          "label": "Публикация команды",
-          "url": "https://t.me/robofootball/382"
-        }
-      ]
-    },
-    {
-      "year": "2026",
-      "event": "РобоКап Россия",
-      "discipline": "FIRA HuroCup",
-      "place": "3",
-      "team": "Робокит В — Алексей Ягубов",
-      "source": "S9, L382",
-      "status": "протокол",
-      "scope": "гуманоидная робототехника",
-      "note": "",
-      "sources": [
-        {
-          "label": "Итоговый протокол РобоКап Россия 2026 — страницы 5 и 6",
-          "url": "https://storage.tusur.ru/files/189255/35341.pdf"
-        },
-        {
-          "label": "Публикация команды",
-          "url": "https://t.me/robofootball/382"
-        }
-      ]
-    },
-    {
-      "year": "2026",
-      "event": "FIRA RoboSports Cup Asia Тайвань",
-      "discipline": "Индивидуальный зачет HuroCup",
-      "place": "1",
-      "team": "Фёдор Девятов и Илья Борисов",
-      "source": "L384",
-      "status": "публикация кружка",
-      "scope": "гуманоидная робототехника",
-      "note": "Одна запись о победе двух участников; число отдельных первых мест не установлено",
-      "sources": [
-        {
-          "label": "Публикация команды",
-          "url": "https://t.me/robofootball/384"
-        }
-      ]
-    },
-    {
-      "year": "2025",
-      "event": "RoboScience Hackathon",
-      "discipline": "CoFeRoS Soccer Junior",
-      "place": "1",
-      "team": "Алексей Ягубов",
-      "source": "S8",
-      "status": "протокол",
-      "scope": "личный смежный результат",
-      "note": "",
-      "sources": [
-        {
-          "label": "Результаты RoboScience Hackathon 2025",
-          "url": "https://coferos.org/roboscience-hackathon-2024-2/"
-        }
-      ]
-    },
-    {
-      "year": "2025",
       "event": "Робофест",
       "discipline": "Абсолютный победитель среди 9 классов",
       "place": "1",
@@ -1506,23 +1596,6 @@
       ]
     },
     {
-      "year": "2024",
-      "event": "RoboScience Hackathon",
-      "discipline": "Миссия невыполнима",
-      "place": "2",
-      "team": "Robokit Z",
-      "source": "S6",
-      "status": "протокол",
-      "scope": "смежная команда с названием Robokit",
-      "note": "Принадлежность конкретно лаборатории гуманоидной робототехники требует уточнения",
-      "sources": [
-        {
-          "label": "Результаты RoboScience Hackathon 2024",
-          "url": "https://www.firarussia.ru/rsh2024_eng"
-        }
-      ]
-    },
-    {
       "year": "2025",
       "event": "Хакатон поиска мазутных пятен",
       "discipline": "Поиск координат загрязнений",
@@ -1536,6 +1609,23 @@
         {
           "label": "Публикация команды",
           "url": "https://t.me/robofootball/260"
+        }
+      ]
+    },
+    {
+      "year": "2026",
+      "event": "FIRA RoboSports Cup Asia Тайвань",
+      "discipline": "Индивидуальный зачет HuroCup",
+      "place": "1",
+      "team": "Фёдор Девятов и Илья Борисов",
+      "source": "L384",
+      "status": "публикация кружка",
+      "scope": "гуманоидная робототехника",
+      "note": "Одна запись о победе двух участников; число отдельных первых мест не установлено",
+      "sources": [
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/384"
         }
       ]
     },
@@ -1574,6 +1664,132 @@
         {
           "label": "Публикация команды",
           "url": "https://t.me/robofootball/364"
+        }
+      ]
+    },
+    {
+      "year": "2026",
+      "event": "РобоКап Россия",
+      "discipline": "FIRA HuroCup",
+      "place": "3",
+      "team": "Робокит В — Алексей Ягубов",
+      "source": "S9, L382",
+      "status": "протокол",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Итоговый протокол РобоКап Россия 2026 — страницы 5 и 6",
+          "url": "https://storage.tusur.ru/files/189255/35341.pdf"
+        },
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/382"
+        }
+      ]
+    },
+    {
+      "year": "2026",
+      "event": "РобоКап Россия",
+      "discipline": "FIRA HuroCup Marathon",
+      "place": "2",
+      "team": "Робокит В — Алексей Ягубов",
+      "source": "S9, L382",
+      "status": "протокол",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Итоговый протокол РобоКап Россия 2026 — страницы 5 и 6",
+          "url": "https://storage.tusur.ru/files/189255/35341.pdf"
+        },
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/382"
+        }
+      ]
+    },
+    {
+      "year": "2026",
+      "event": "РобоКап Россия",
+      "discipline": "FIRA HuroCup Sprint",
+      "place": "3",
+      "team": "Робокит Д — Иван Рубцов",
+      "source": "S9, L382",
+      "status": "протокол",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Итоговый протокол РобоКап Россия 2026 — страницы 5 и 6",
+          "url": "https://storage.tusur.ru/files/189255/35341.pdf"
+        },
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/382"
+        }
+      ]
+    },
+    {
+      "year": "2026",
+      "event": "РобоКап Россия",
+      "discipline": "Junior Humanoid Soccer",
+      "place": "1",
+      "team": "Робокит Б — Иван Рубцов, Степан Якимов",
+      "source": "S9, L382",
+      "status": "протокол",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Итоговый протокол РобоКап Россия 2026 — страницы 5 и 6",
+          "url": "https://storage.tusur.ru/files/189255/35341.pdf"
+        },
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/382"
+        }
+      ]
+    },
+    {
+      "year": "2026",
+      "event": "РобоКап Россия",
+      "discipline": "Junior Humanoid Soccer",
+      "place": "2",
+      "team": "Робокит А — Алексей Ягубов, Фёдор Девятов",
+      "source": "S9, L382",
+      "status": "протокол",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Итоговый протокол РобоКап Россия 2026 — страницы 5 и 6",
+          "url": "https://storage.tusur.ru/files/189255/35341.pdf"
+        },
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/382"
+        }
+      ]
+    },
+    {
+      "year": "2026",
+      "event": "РобоКап Россия",
+      "discipline": "Junior Humanoid Soccer Entry",
+      "place": "3",
+      "team": "Робокит В — Алексей Ягубов",
+      "source": "S9, L382",
+      "status": "протокол",
+      "scope": "гуманоидная робототехника",
+      "note": "",
+      "sources": [
+        {
+          "label": "Итоговый протокол РобоКап Россия 2026 — страницы 5 и 6",
+          "url": "https://storage.tusur.ru/files/189255/35341.pdf"
+        },
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/382"
         }
       ]
     },

@@ -102,7 +102,7 @@
     {
       "year": "2025",
       "event": "FIRA Тайвань",
-      "description": "International Intelligent Robot Sports Cup на Тайване, май 2025 года. В отчёте университета Тамкан представлены дисциплины HuroCup, RoboSot и AutoRace.",
+      "description": "International Intelligent RoboSports Cup 2025 · Гаосюн, Тайвань · NKUST · 24 мая 2025 года. По дипломам: 10 призовых мест в HuroCup Junior — 6 первых, 3 вторых и 1 третье.",
       "url": "https://events.tku.edu.tw/eFocusDetail.cshtml?sn=2950",
       "label": "Отчёт университета Тамкан",
       "note": "Университетская публикация описывает соревнование; результат RoboKit подтверждается отдельной публикацией команды.",
@@ -115,6 +115,46 @@
         {
           "label": "Публикация команды",
           "url": "https://t.me/robofootball/247"
+        },
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 14",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-14"
+        },
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 18",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-18"
+        },
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 17",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-17"
+        },
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 21",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-21"
+        },
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 16",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-16"
+        },
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 19",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-19"
+        },
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 13",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-13"
+        },
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 15",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-15"
+        },
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 22",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-22"
+        },
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 20",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-20"
         }
       ]
     },
@@ -164,6 +204,21 @@
         {
           "label": "Публикация команды",
           "url": "https://t.me/robofootball/211"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "Технологии БАС: экспортный вызов",
+      "description": "Хакатон, 17–23 марта 2025 года. Сертификат участника Дмитрия Устинова; призовое место не указано.",
+      "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-37",
+      "label": "Документ из личного архива",
+      "note": "",
+      "id": "competition-diploma-37",
+      "results": [
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 37",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-37"
         }
       ]
     },
@@ -253,12 +308,12 @@
       "id": "competition-2024-16",
       "results": [
         {
-          "label": "Результаты РобоКап Россия 2024 — страница 2",
-          "url": "https://storage.tusur.ru/files/174305/Itogi.pdf"
-        },
-        {
           "label": "Публикация команды",
           "url": "https://t.me/robofootball/109"
+        },
+        {
+          "label": "Результаты РобоКап Россия 2024 — страница 2",
+          "url": "https://storage.tusur.ru/files/174305/Itogi.pdf"
         }
       ]
     },
@@ -274,6 +329,55 @@
         {
           "label": "Результаты RoboScience Hackathon 2023",
           "url": "https://www.firarussia.ru/rsh2023"
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "event": "РобоКап Россия",
+      "description": "Томск, 11–14 мая 2023 года. Junior Humanoid Soccer: Robokit B — второе, Robokit A — третье место.",
+      "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-32",
+      "label": "Документ из личного архива",
+      "note": "",
+      "id": "competition-diploma-32",
+      "results": [
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 32",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-32"
+        },
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 6",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-6"
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "event": "FIRA SimulCup",
+      "description": "18–23 августа 2022 года. Сертификат подтверждает участие Дмитрия Устинова как тренера Robokit B в HuroCup Jr.; место не указано.",
+      "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-26",
+      "label": "Документ из личного архива",
+      "note": "",
+      "id": "competition-diploma-26",
+      "results": [
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 26",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-26"
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "event": "РобоКап Россия",
+      "description": "Томск, 12–15 мая 2022 года. Junior Humanoid Soccer: Robokit C — третье место.",
+      "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-28",
+      "label": "Документ из личного архива",
+      "note": "",
+      "id": "competition-diploma-28",
+      "results": [
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 28",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-28"
         }
       ]
     },
@@ -301,6 +405,10 @@
       "note": "",
       "id": "competition-2021-19",
       "results": [
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 30",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-30"
+        },
         {
           "label": "Исторический сайт кружка RoboKit и его индексируемые публикации 2019–2021",
           "url": "https://robokit.su/"
@@ -338,6 +446,21 @@
         {
           "label": "RoboKit — Робофест 2020",
           "url": "https://robokit.su/2020/11/01/робофест-2020/"
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "event": "Старт в инновации",
+      "description": "XIX научно-практическая конференция Физтех-лицея, 14 марта 2020 года. Даниел Бабаев — призёр; руководители Азер Бабаев и Дмитрий Устинов.",
+      "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-36",
+      "label": "Документ из личного архива",
+      "note": "",
+      "id": "competition-diploma-36",
+      "results": [
+        {
+          "label": "Именной диплом Дмитрия Устинова · документ 36",
+          "url": "https://dimaystinov.github.io/docs/personal-awards.html#diploma-36"
         }
       ]
     },

@@ -2,20 +2,22 @@
   "updated": "2026-10-14",
   "unit": "запись о результате, не число личных медалей",
   "core": {
-    "records": 83,
-    "first": 33,
-    "second": 26,
-    "third": 24,
+    "records": 94,
+    "first": 38,
+    "second": 30,
+    "third": 26,
     "degree_iii": 0,
-    "victory_unspecified": 0
+    "victory_unspecified": 0,
+    "prize_unspecified": 0
   },
   "all": {
-    "records": 92,
-    "first": 35,
-    "second": 28,
-    "third": 24,
+    "records": 104,
+    "first": 40,
+    "second": 32,
+    "third": 26,
     "degree_iii": 3,
-    "victory_unspecified": 2
+    "victory_unspecified": 2,
+    "prize_unspecified": 1
   },
   "by_year": {
     "2026": {
@@ -24,15 +26,17 @@
       "second": 4,
       "third": 3,
       "degree_iii": 0,
-      "victory_unspecified": 2
+      "victory_unspecified": 2,
+      "prize_unspecified": 0
     },
     "2025": {
-      "records": 27,
-      "first": 9,
-      "second": 7,
+      "records": 34,
+      "first": 14,
+      "second": 9,
       "third": 8,
       "degree_iii": 3,
-      "victory_unspecified": 0
+      "victory_unspecified": 0,
+      "prize_unspecified": 0
     },
     "2024": {
       "records": 33,
@@ -40,31 +44,44 @@
       "second": 11,
       "third": 5,
       "degree_iii": 0,
-      "victory_unspecified": 0
+      "victory_unspecified": 0,
+      "prize_unspecified": 0
     },
     "2023": {
-      "records": 12,
+      "records": 14,
       "first": 1,
-      "second": 4,
-      "third": 7,
+      "second": 5,
+      "third": 8,
       "degree_iii": 0,
-      "victory_unspecified": 0
+      "victory_unspecified": 0,
+      "prize_unspecified": 0
+    },
+    "2022": {
+      "records": 1,
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "degree_iii": 0,
+      "victory_unspecified": 0,
+      "prize_unspecified": 0
     },
     "2021": {
-      "records": 2,
+      "records": 3,
       "first": 1,
-      "second": 1,
+      "second": 2,
       "third": 0,
       "degree_iii": 0,
-      "victory_unspecified": 0
+      "victory_unspecified": 0,
+      "prize_unspecified": 0
     },
     "2020": {
-      "records": 3,
+      "records": 4,
       "first": 2,
       "second": 1,
       "third": 0,
       "degree_iii": 0,
-      "victory_unspecified": 0
+      "victory_unspecified": 0,
+      "prize_unspecified": 1
     },
     "2019": {
       "records": 2,
@@ -72,33 +89,28 @@
       "second": 0,
       "third": 1,
       "degree_iii": 0,
-      "victory_unspecified": 0
+      "victory_unspecified": 0,
+      "prize_unspecified": 0
     }
   },
   "by_scope": {
     "гуманоидная робототехника": {
-      "records": 83,
-      "first": 33,
-      "second": 26,
-      "third": 24,
+      "records": 94,
+      "first": 38,
+      "second": 30,
+      "third": 26,
       "degree_iii": 0,
-      "victory_unspecified": 0
+      "victory_unspecified": 0,
+      "prize_unspecified": 0
     },
-    "личный смежный результат": {
-      "records": 2,
-      "first": 1,
+    "научно-практическая конференция": {
+      "records": 1,
+      "first": 0,
       "second": 0,
       "third": 0,
       "degree_iii": 0,
-      "victory_unspecified": 1
-    },
-    "олимпиадный результат": {
-      "records": 4,
-      "first": 1,
-      "second": 0,
-      "third": 0,
-      "degree_iii": 3,
-      "victory_unspecified": 0
+      "victory_unspecified": 0,
+      "prize_unspecified": 1
     },
     "смежная команда с названием Robokit": {
       "records": 1,
@@ -106,7 +118,26 @@
       "second": 1,
       "third": 0,
       "degree_iii": 0,
-      "victory_unspecified": 0
+      "victory_unspecified": 0,
+      "prize_unspecified": 0
+    },
+    "личный смежный результат": {
+      "records": 2,
+      "first": 1,
+      "second": 0,
+      "third": 0,
+      "degree_iii": 0,
+      "victory_unspecified": 1,
+      "prize_unspecified": 0
+    },
+    "олимпиадный результат": {
+      "records": 4,
+      "first": 1,
+      "second": 0,
+      "third": 0,
+      "degree_iii": 3,
+      "victory_unspecified": 0,
+      "prize_unspecified": 0
     },
     "смежный проект": {
       "records": 2,
@@ -114,7 +145,8 @@
       "second": 1,
       "third": 0,
       "degree_iii": 0,
-      "victory_unspecified": 1
+      "victory_unspecified": 1,
+      "prize_unspecified": 0
     }
   }
 }

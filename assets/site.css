@@ -47,3 +47,6 @@
 .personal-hackathon{margin:32px 0 0;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:24px;align-items:center}.personal-hackathon img{display:block;width:100%;height:auto;max-height:560px;object-fit:contain}.personal-hackathon figcaption strong{display:block;font-size:18px;color:var(--ink)}.personal-hackathon figcaption p{margin:12px 0}.personal-hackathon figcaption a{font-size:13px}@media(max-width:600px){.personal-hackathon{grid-template-columns:1fr;gap:14px}.personal-hackathon img{max-height:none}}
 
 .award-photo-stack{display:grid;gap:24px;align-content:start;min-width:0}.award-photo-stack .award-image img{height:auto;aspect-ratio:auto;object-fit:contain}
+
+.award-row .award-photo-stack .award-image{grid-column:auto;grid-row:auto}.award-row:nth-child(even) .award-photo-stack{grid-column:1;grid-row:1}@media(max-width:750px){.award-row:nth-child(even) .award-photo-stack{grid-column:auto;grid-row:auto}}
+.stat-grid{grid-template-columns:repeat(6,minmax(0,1fr))}.language-switch[aria-current="page"]{font-weight:750;text-decoration:underline;text-underline-offset:5px}@media(max-width:750px){.stat-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
