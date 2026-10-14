@@ -11,3 +11,5 @@
 
 - `fira-korea-2025.jpg` — FIRA RoboWorld Cup 2025, Дегу, 11–15 августа. https://t.me/robofootball/300
 - `fira-brazil-2024.jpg` — FIRA RoboWorld Cup 2024, Бразилия, 5–10 августа. https://t.me/robofootball/89
+
+- `oil-spill-hackathon-2025.jpg`: фотография предоставлена Дмитрием Устиновым в чате 14.10.2026; хакатон «Поиск мазутных пятен», 2–7 июня 2025. Цветной оригинал без обрезки.

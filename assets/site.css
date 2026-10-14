@@ -43,3 +43,5 @@
 }
 
 .competition-year{border-top:1px solid var(--line,#ddd);padding:16px 0}.competition-year summary{cursor:pointer;font-size:20px;font-weight:700;min-height:32px}.competition-item{padding:18px 0;border-bottom:1px solid var(--line,#ddd)}.competition-item:last-child{border-bottom:0}.competition-item h3{margin:0 0 10px}.competition-item p{overflow-wrap:anywhere}.competition-link{font-size:13px;margin-top:8px}.competition-sources{font-size:13px}
+
+.personal-hackathon{margin:32px 0 0;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:24px;align-items:center}.personal-hackathon img{display:block;width:100%;height:auto;max-height:560px;object-fit:contain}.personal-hackathon figcaption strong{display:block;font-size:18px;color:var(--ink)}.personal-hackathon figcaption p{margin:12px 0}.personal-hackathon figcaption a{font-size:13px}@media(max-width:600px){.personal-hackathon{grid-template-columns:1fr;gap:14px}.personal-hackathon img{max-height:none}}
