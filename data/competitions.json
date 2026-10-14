@@ -1,0 +1,359 @@
+{
+  "updated": "2026-10-14",
+  "events": [
+    {
+      "year": "2026",
+      "event": "FIRA RoboSports Cup Asia Тайвань",
+      "description": "Тайваньские соревнования FIRA по интеллектуальным роботам, 25–26 апреля 2026 года, первый кампус NKUST в Гаосюне. В программе регистрации перечислены дисциплины HuroCup.",
+      "url": "https://www.dooogrobotics.com/register",
+      "label": "Страница регистрации партнёра мероприятия",
+      "note": "Название в реестре сохранено по публикации команды; страница регистрации описывает тайваньскую программу FIRA.",
+      "id": "competition-2026-1",
+      "results": [
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/384"
+        }
+      ]
+    },
+    {
+      "year": "2026",
+      "event": "ROS Meetup хакатон СВЕРХ",
+      "description": "ROS Meetup — конференция и практическая программа по робототехнике, 20–22 марта 2026 года, МФТИ, Долгопрудный.",
+      "url": "https://rosmeetup.ru/",
+      "label": "Официальная программа ROS Meetup",
+      "note": "В программе есть практические занятия СВЕРХ по SLAM и бортовому ИИ; результат команды приведён отдельной ссылкой.",
+      "id": "competition-2026-2",
+      "results": [
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/364"
+        },
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/390"
+        }
+      ]
+    },
+    {
+      "year": "2026",
+      "event": "Другой хакатон на ROS Meetup",
+      "description": "ROS Meetup — конференция и практическая программа по робототехнике, 20–22 марта 2026 года, МФТИ, Долгопрудный.",
+      "url": "https://rosmeetup.ru/",
+      "label": "Официальная программа ROS Meetup",
+      "note": "Точное название второго хакатона в публикации не установлено; ссылка ведёт на общую программу, а не на протокол награждения.",
+      "id": "competition-2026-3",
+      "results": [
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/364"
+        }
+      ]
+    },
+    {
+      "year": "2026",
+      "event": "РобоКап Россия",
+      "description": "Национальный этап RoboCup в Томске, 2026 год. В реестре команды представлены футбол гуманоидных роботов и дисциплины HuroCup.",
+      "url": "https://robocuprussiaopen.ru/events/russiaopen/2026/",
+      "label": "Сайт организаторов",
+      "note": "",
+      "id": "competition-2026-4",
+      "results": [
+        {
+          "label": "Итоговый протокол РобоКап Россия 2026 — страницы 5 и 6",
+          "url": "https://storage.tusur.ru/files/189255/35341.pdf"
+        },
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/382"
+        }
+      ]
+    },
+    {
+      "year": "2026",
+      "event": "Робофинист, Санкт-Петербург",
+      "description": "Международный фестиваль робототехники «Робофинист», 3–4 октября 2026 года, Кронштадт, Санкт-Петербург.",
+      "url": "https://robofinist.ru/event/info/pages/id/1600",
+      "label": "Сайт организаторов",
+      "note": "",
+      "id": "competition-2026-5",
+      "results": [
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/398"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "FIRA RoboWorld Cup Дегу",
+      "description": "Международный чемпионат FIRA RoboWorld Cup, 11–15 августа 2025 года, выставочный центр EXCO, Тэгу (Дегу), Республика Корея.",
+      "url": "https://2025.firaworldcup.org/",
+      "label": "Сайт организаторов",
+      "note": "",
+      "id": "competition-2025-6",
+      "results": [
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/300"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "FIRA Тайвань",
+      "description": "International Intelligent Robot Sports Cup на Тайване, май 2025 года. В отчёте университета Тамкан представлены дисциплины HuroCup, RoboSot и AutoRace.",
+      "url": "https://events.tku.edu.tw/eFocusDetail.cshtml?sn=2950",
+      "label": "Отчёт университета Тамкан",
+      "note": "Университетская публикация описывает соревнование; результат RoboKit подтверждается отдельной публикацией команды.",
+      "id": "competition-2025-7",
+      "results": [
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/246"
+        },
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/247"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "RoboScience Hackathon",
+      "description": "Соревнования по интеллектуальной робототехнике и программированию роботов, включая HuroCup и роботизированный футбол. В 2025 году — 21–23 ноября, технопарк Физтех-лицея в Долгопрудном.",
+      "url": "https://coferos.org/roboscience-hackathon-2024-2/",
+      "label": "Сайт организаторов",
+      "note": "Страница имеет 2024 в адресе, но её заголовок и содержание относятся к 2025 году.",
+      "id": "competition-2025-8",
+      "results": [
+        {
+          "label": "Результаты RoboScience Hackathon 2025",
+          "url": "https://coferos.org/roboscience-hackathon-2024-2/"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "РобоКап Россия",
+      "description": "Национальный этап RoboCup в Томске, 2025 год. В реестре команды представлены футбол гуманоидных роботов и дисциплины HuroCup.",
+      "url": "https://robocuprussiaopen.ru/events/russiaopen/2025/",
+      "label": "Сайт организаторов",
+      "note": "",
+      "id": "competition-2025-9",
+      "results": [
+        {
+          "label": "Результаты РобоКап Россия 2025 — страницы 2 и 3",
+          "url": "https://storage.tusur.ru/files/180564/2025.pdf"
+        },
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/227"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "Робофест",
+      "description": "Олимпиада школьников «Робофест»: задания по физике и робототехнике. Это отдельное мероприятие, не фестиваль «Робофест — 2020».",
+      "url": "https://open.phys.msu.ru/guide/",
+      "label": "Материалы олимпиады на сайте физического факультета МГУ",
+      "note": "",
+      "id": "competition-2025-10",
+      "results": [
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/211"
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "event": "Хакатон поиска мазутных пятен",
+      "description": "Хакатон «Поиск мазутных пятен»: применение беспилотных технологий для поиска загрязнений. Найден анонс Drone Garage на 22 мая 2025 года.",
+      "url": "https://leader-id.ru/kk/events/558615",
+      "label": "Анонс мероприятия на Leader-ID",
+      "note": "Совпадает название мероприятия; найденный анонс сам по себе не подтверждает результат команды.",
+      "id": "competition-2025-11",
+      "results": [
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/260"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "event": "FIRA Eurasia Ван",
+      "description": "FIRA RoboWorld Cup Eurasia в Ване, Турция, ноябрь 2024 года.",
+      "url": "https://firaworldcup.org/",
+      "label": "Международный календарь FIRA",
+      "note": "",
+      "id": "competition-2024-12",
+      "results": [
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/155"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "event": "FIRA Korea",
+      "description": "FIRA RoboSports Cup Asia в Намвоне, Республика Корея, 5–6 октября 2024 года.",
+      "url": "https://firaworldcup.org/",
+      "label": "Международный календарь FIRA",
+      "note": "",
+      "id": "competition-2024-13",
+      "results": [
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/124"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "event": "FIRA RoboWorld Cup Бразилия",
+      "description": "Чемпионат FIRA RoboWorld Cup в Сан-Луисе, штат Мараньян, Бразилия, август 2024 года.",
+      "url": "https://firaworldcup.org/",
+      "label": "Международный календарь FIRA",
+      "note": "",
+      "id": "competition-2024-14",
+      "results": [
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/89"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "event": "RoboScience Hackathon",
+      "description": "Соревнования по интеллектуальной робототехнике и программированию роботов, включая HuroCup и роботизированный футбол.",
+      "url": "https://www.firarussia.ru/rsh2024_eng",
+      "label": "Сайт организаторов",
+      "note": "",
+      "id": "competition-2024-15",
+      "results": [
+        {
+          "label": "Результаты RoboScience Hackathon 2024",
+          "url": "https://www.firarussia.ru/rsh2024_eng"
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "event": "РобоКап Россия",
+      "description": "Национальный этап RoboCup в Томске, 2024 год. В реестре команды представлены футбол гуманоидных роботов и дисциплины HuroCup.",
+      "url": "https://robocuprussiaopen.ru/events/",
+      "label": "Сайт организаторов",
+      "note": "",
+      "id": "competition-2024-16",
+      "results": [
+        {
+          "label": "Результаты РобоКап Россия 2024 — страница 2",
+          "url": "https://storage.tusur.ru/files/174305/Itogi.pdf"
+        },
+        {
+          "label": "Публикация команды",
+          "url": "https://t.me/robofootball/109"
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "event": "RoboScience Hackathon",
+      "description": "Соревнования по интеллектуальной робототехнике и программированию роботов, включая HuroCup и роботизированный футбол.",
+      "url": "https://www.firarussia.ru/rsh2023",
+      "label": "Сайт организаторов",
+      "note": "",
+      "id": "competition-2023-17",
+      "results": [
+        {
+          "label": "Результаты RoboScience Hackathon 2023",
+          "url": "https://www.firarussia.ru/rsh2023"
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "event": "FIRA",
+      "description": "FIRA SimulCup 2021 — международные соревнования в гибридном формате с региональными площадками и виртуальными дисциплинами, декабрь 2021 года.",
+      "url": "https://firaworldcup.org/news/fira-simulcup-2021-call-for-participation/",
+      "label": "Официальное приглашение FIRA",
+      "note": "В ранней публикации кружка событие обозначено кратко как FIRA; подробная привязка результата к площадке не указана.",
+      "id": "competition-2021-18",
+      "results": [
+        {
+          "label": "Исторический сайт кружка RoboKit и его индексируемые публикации 2019–2021",
+          "url": "https://robokit.su/"
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "event": "RoboCup Russia Open",
+      "description": "Российский этап RoboCup в Томске, 13–16 мая 2021 года.",
+      "url": "https://robocuprussiaopen.ru/events/russiaopen/2021/results.html",
+      "label": "Официальные результаты",
+      "note": "",
+      "id": "competition-2021-19",
+      "results": [
+        {
+          "label": "Исторический сайт кружка RoboKit и его индексируемые публикации 2019–2021",
+          "url": "https://robokit.su/"
+        },
+        {
+          "label": "Карточка проекта школьного центра Робокит — Университет 2035",
+          "url": "https://pt.2035.university/project/skolnyj-centr-iskusstvennogo-intellekta-i-robototehniki-robokit"
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "event": "Virtual RoboCup Asia-Pacific",
+      "description": "Дистанционный турнир RoboCup Asia-Pacific, 8–12 октября 2020 года; в программе — Junior Humanoid.",
+      "url": "https://lists.robocup.org/archives/list/rc-work%40lists.robocup.org/message/55JGI3QKH75Q3P2PELCK3UBLY6GTFWEI/",
+      "label": "Приглашение организаторов в архиве RoboCup",
+      "note": "",
+      "id": "competition-2020-20",
+      "results": [
+        {
+          "label": "Исторический сайт кружка RoboKit и его индексируемые публикации 2019–2021",
+          "url": "https://robokit.su/"
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "event": "Робофест",
+      "description": "Робототехнический фестиваль 2020 года. По сообщению кружка, большая часть программы проходила дистанционно, а футбол гуманоидных роботов — очно.",
+      "url": "https://robokit.su/2020/11/01/%D1%80%D0%BE%D0%B1%D0%BE%D1%84%D0%B5%D1%81%D1%82-2020/",
+      "label": "Архивная публикация кружка",
+      "note": "Отдельная страница организаторов не найдена. У исторического сайта сейчас ошибка SSL-сертификата; публикация доступна в поисковом индексе.",
+      "id": "competition-2020-21",
+      "results": [
+        {
+          "label": "RoboKit — Робофест 2020",
+          "url": "https://robokit.su/2020/11/01/робофест-2020/"
+        }
+      ]
+    },
+    {
+      "year": "2019",
+      "event": "RoboCup Asia-Pacific",
+      "description": "Международный турнир RoboCup Asia-Pacific в Москве, 6–10 ноября 2019 года. В программе — робототехнические лиги, включая гуманоидных роботов.",
+      "url": "https://www.robocup.or.jp/news/entry-74.html",
+      "label": "Анонс национального комитета RoboCup Японии",
+      "note": "",
+      "id": "competition-2019-22",
+      "results": [
+        {
+          "label": "Исторический сайт кружка RoboKit и его индексируемые публикации 2019–2021",
+          "url": "https://robokit.su/"
+        }
+      ]
+    }
+  ]
+}

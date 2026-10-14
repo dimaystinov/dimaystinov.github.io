@@ -1,0 +1,25 @@
+{
+  "checked": "2026-10-14",
+  "method": "HTTP HEAD; errors do not necessarily mean page unavailable in browser",
+  "results": {
+    "https://2025.firaworldcup.org/": "200",
+    "https://coferos.org/roboscience-hackathon-2024-2/": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>",
+    "https://events.tku.edu.tw/eFocusDetail.cshtml?sn=2950": "<urlopen error _ssl.c:1064: The handshake operation timed out>",
+    "https://firaworldcup.org/": "200",
+    "https://firaworldcup.org/news/fira-simulcup-2021-call-for-participation/": "200",
+    "https://leader-id.ru/kk/events/558615": "HTTP Error 503: Service Temporarily Unavailable",
+    "https://lists.robocup.org/archives/list/rc-work%40lists.robocup.org/message/55JGI3QKH75Q3P2PELCK3UBLY6GTFWEI/": "200",
+    "https://open.phys.msu.ru/guide/": "200",
+    "https://robocuprussiaopen.ru/events/": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>",
+    "https://robocuprussiaopen.ru/events/russiaopen/2021/results.html": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>",
+    "https://robocuprussiaopen.ru/events/russiaopen/2025/": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>",
+    "https://robocuprussiaopen.ru/events/russiaopen/2026/": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>",
+    "https://robofinist.ru/event/info/pages/id/1600": "200",
+    "https://robokit.su/2020/11/01/%D1%80%D0%BE%D0%B1%D0%BE%D1%84%D0%B5%D1%81%D1%82-2020/": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1082)>",
+    "https://rosmeetup.ru/": "200",
+    "https://www.dooogrobotics.com/register": "200",
+    "https://www.firarussia.ru/rsh2023": "HTTP Error 403: Forbidden",
+    "https://www.firarussia.ru/rsh2024_eng": "HTTP Error 403: Forbidden",
+    "https://www.robocup.or.jp/news/entry-74.html": "200"
+  }
+}

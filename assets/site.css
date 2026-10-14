@@ -41,3 +41,5 @@
  .full-register .table-wrap{border:1px solid var(--line);padding:10px}.full-register summary{line-height:1.6}
  footer.wrap{gap:20px;padding-top:26px}.footer-links{grid-template-columns:1fr 1fr;gap:0 16px}.footer-links a{display:flex;align-items:center;min-height:44px;font-size:12px}
 }
+
+.competition-year{border-top:1px solid var(--line,#ddd);padding:16px 0}.competition-year summary{cursor:pointer;font-size:20px;font-weight:700;min-height:32px}.competition-item{padding:18px 0;border-bottom:1px solid var(--line,#ddd)}.competition-item:last-child{border-bottom:0}.competition-item h3{margin:0 0 10px}.competition-item p{overflow-wrap:anywhere}.competition-link{font-size:13px;margin-top:8px}.competition-sources{font-size:13px}
