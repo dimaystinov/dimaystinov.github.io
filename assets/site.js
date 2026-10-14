@@ -29,3 +29,12 @@
   form.addEventListener('reset', () => setTimeout(filter, 0));
   filter();
 })();
+document.querySelectorAll('.year-detail').forEach(link => {
+  link.addEventListener('click', () => {
+    document.querySelector('#full-register').open = true;
+    document.querySelector('#year').value = link.dataset.year;
+    document.querySelector('#place').value = 'all';
+    document.querySelector('#search').value = '';
+    document.querySelector('#year').dispatchEvent(new Event('change', {bubbles:true}));
+  });
+});

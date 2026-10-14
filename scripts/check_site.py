@@ -32,3 +32,15 @@ for a,b in zip(records,exported):
 for url in ['https://starkit.su/','https://t.me/robofootball','https://vk.com/roboball']:assert url in p.refs
 for path in root.glob('docs/*.pdf'):assert path.read_bytes().startswith(b'%PDF-')
 print('PASS: 92 records, 83 humanoid results, 33 wins; CSV matches JSON; local links, anchors and PDFs present.')
+from collections import Counter
+stats=json.loads((root/'data/award-statistics.json').read_text())
+fields={'1':'first','2':'second','3':'third','III степень':'degree_iii','победа':'victory_unspecified'}
+for label,rr in [('core',core),('all',records)]:
+ c=Counter(r['place'] for r in rr)
+ assert stats[label]['records']==len(rr)
+ for result,field in fields.items():assert stats[label][field]==c[result]
+for year,s in stats['by_year'].items():
+ rr=[r for r in records if r['year']==year];assert s['records']==len(rr)
+ for result,field in fields.items():assert s[field]==sum(r['place']==result for r in rr)
+assert sum(s['records'] for s in stats['by_scope'].values())==len(records)
+print('PASS: statistics reconcile by year, scope and award type.')

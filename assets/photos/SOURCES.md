@@ -8,3 +8,6 @@
 - `robofinist-2026.jpg` — Робофинист. Санкт-Петербург · 4 октября 2026. https://t.me/robofootball/398
 
 `../roki-2.png` — фотография платформы с https://sk24.ru/product/robokit-ii-1-0/ (получена 17 сентября 2026). Сайт проекта: https://starkit.su/.
+
+- `fira-korea-2025.jpg` — FIRA RoboWorld Cup 2025, Дегу, 11–15 августа. https://t.me/robofootball/300
+- `fira-brazil-2024.jpg` — FIRA RoboWorld Cup 2024, Бразилия, 5–10 августа. https://t.me/robofootball/89

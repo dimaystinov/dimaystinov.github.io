@@ -1,0 +1,120 @@
+{
+  "updated": "2026-10-14",
+  "unit": "запись о результате, не число личных медалей",
+  "core": {
+    "records": 83,
+    "first": 33,
+    "second": 26,
+    "third": 24,
+    "degree_iii": 0,
+    "victory_unspecified": 0
+  },
+  "all": {
+    "records": 92,
+    "first": 35,
+    "second": 28,
+    "third": 24,
+    "degree_iii": 3,
+    "victory_unspecified": 2
+  },
+  "by_year": {
+    "2026": {
+      "records": 13,
+      "first": 4,
+      "second": 4,
+      "third": 3,
+      "degree_iii": 0,
+      "victory_unspecified": 2
+    },
+    "2025": {
+      "records": 27,
+      "first": 9,
+      "second": 7,
+      "third": 8,
+      "degree_iii": 3,
+      "victory_unspecified": 0
+    },
+    "2024": {
+      "records": 33,
+      "first": 17,
+      "second": 11,
+      "third": 5,
+      "degree_iii": 0,
+      "victory_unspecified": 0
+    },
+    "2023": {
+      "records": 12,
+      "first": 1,
+      "second": 4,
+      "third": 7,
+      "degree_iii": 0,
+      "victory_unspecified": 0
+    },
+    "2021": {
+      "records": 2,
+      "first": 1,
+      "second": 1,
+      "third": 0,
+      "degree_iii": 0,
+      "victory_unspecified": 0
+    },
+    "2020": {
+      "records": 3,
+      "first": 2,
+      "second": 1,
+      "third": 0,
+      "degree_iii": 0,
+      "victory_unspecified": 0
+    },
+    "2019": {
+      "records": 2,
+      "first": 1,
+      "second": 0,
+      "third": 1,
+      "degree_iii": 0,
+      "victory_unspecified": 0
+    }
+  },
+  "by_scope": {
+    "гуманоидная робототехника": {
+      "records": 83,
+      "first": 33,
+      "second": 26,
+      "third": 24,
+      "degree_iii": 0,
+      "victory_unspecified": 0
+    },
+    "личный смежный результат": {
+      "records": 2,
+      "first": 1,
+      "second": 0,
+      "third": 0,
+      "degree_iii": 0,
+      "victory_unspecified": 1
+    },
+    "олимпиадный результат": {
+      "records": 4,
+      "first": 1,
+      "second": 0,
+      "third": 0,
+      "degree_iii": 3,
+      "victory_unspecified": 0
+    },
+    "смежная команда с названием Robokit": {
+      "records": 1,
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "degree_iii": 0,
+      "victory_unspecified": 0
+    },
+    "смежный проект": {
+      "records": 2,
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "degree_iii": 0,
+      "victory_unspecified": 1
+    }
+  }
+}
