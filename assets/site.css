@@ -79,3 +79,6 @@
 .video-player{width:100%;aspect-ratio:16/9;background:#111;border-radius:12px;overflow:hidden}.video-player iframe,.video-player video{display:block;width:100%;height:100%;border:0}.video-source{margin:12px 0 0;font-size:13px}
 
 .video-player video{object-fit:contain}
+
+.class-schedule-list{list-style:none;margin:0;padding:0}.class-schedule-list li{display:grid;grid-template-columns:170px minmax(0,1fr);gap:24px;padding:22px 0;border-bottom:1px solid var(--line)}.class-schedule-list li:first-child{padding-top:0}.class-schedule-list li:last-child{border-bottom:0;padding-bottom:0}.class-schedule-time span{display:block;font-size:14px;color:var(--muted);margin-bottom:6px}.class-schedule-time strong{font-size:20px;white-space:nowrap;font-variant-numeric:tabular-nums}.class-schedule-list h3{margin:0 0 6px;font-size:20px;line-height:1.35}.class-schedule-list p{margin:0;font-size:14px;color:var(--muted)}
+@media(max-width:540px){.class-schedule-list li{grid-template-columns:1fr;gap:12px}.class-schedule-time{display:flex;align-items:baseline;justify-content:space-between;gap:16px}.class-schedule-time span{margin:0}}
