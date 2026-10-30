@@ -4,7 +4,7 @@
   const status = document.querySelector('#project-status');
   const make = (tag, cls, text) => { const el = document.createElement(tag); el.className = cls; el.textContent = text; return el; };
   try {
-    const response = await fetch('./projects.json');
+    const response = await fetch('./projects.json?v=20261030-media-demos');
     if (!response.ok) throw new Error('load');
     const projects = await response.json();
     if (!Array.isArray(projects) || projects.some(p => !p.id || !p.name || !p.category)) throw new Error('data');
