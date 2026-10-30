@@ -61,8 +61,8 @@
     ],
     "video": {
       "title": "Симуляции · SimRoki",
-      "src": "https://ftldata.duckdns.org/media/simroki.mp4",
-      "poster": "https://ftldata.duckdns.org/media/simroki-poster.jpg"
+      "src": "https://github.com/dimaystinov/dimaystinov.github.io/releases/download/ftldata-media-2026-10-30/simroki.mp4",
+      "poster": "./media/simroki-poster.jpg"
     },
     "services": [
       {
@@ -86,20 +86,20 @@
     ],
     "video": {
       "title": "Итоговая цель нейросетевой ходьбы",
-      "src": "https://ftldata.duckdns.org/media/neural-walking-goal.mp4",
-      "poster": "https://ftldata.duckdns.org/media/neural-walking-poster.jpg",
+      "src": "https://github.com/dimaystinov/dimaystinov.github.io/releases/download/ftldata-media-2026-10-30/neural-walking-goal.mp4",
+      "poster": "./media/neural-walking-poster.jpg",
       "portrait": true
     },
     "videos": [
       {
         "title": "Ходьба робота в MuJoCo",
-        "src": "https://ftldata.duckdns.org/media/walking-mujoco-20261028.mp4",
-        "poster": "https://ftldata.duckdns.org/media/walking-mujoco-20261028.jpg"
+        "src": "https://github.com/dimaystinov/dimaystinov.github.io/releases/download/ftldata-media-2026-10-30/walking-mujoco-20261028.mp4",
+        "poster": "./media/walking-mujoco-20261028.jpg"
       },
       {
         "title": "Демонстрация походки в симуляторе",
-        "src": "https://ftldata.duckdns.org/media/walking-simulation-20261028.mp4",
-        "poster": "https://ftldata.duckdns.org/media/walking-simulation-20261028.jpg"
+        "src": "https://github.com/dimaystinov/dimaystinov.github.io/releases/download/ftldata-media-2026-10-30/walking-simulation-20261028.mp4",
+        "poster": "./media/walking-simulation-20261028.jpg"
       }
     ]
   },
