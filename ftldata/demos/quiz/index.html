@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="ru"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<title>Локал Квиз — тестовая страница</title>
+
+
+<link href="./style.css" rel="stylesheet"/><link href="./parity.css" rel="stylesheet"/><link href="./branding.css" rel="stylesheet"/><style>.demo-banner{display:flex;align-items:center;flex-wrap:wrap;gap:12px;padding:12px 24px;background:#f2ecff;color:#452771;font:14px Arial,sans-serif;border-bottom:1px solid #ddd1ed}.demo-banner a{margin-left:auto;color:inherit}#demo-status:not(:empty){position:fixed;bottom:20px;left:50%;transform:translateX(-50%);z-index:10000;padding:15px 22px;border-radius:8px;background:#302345;color:white;max-width:90vw;box-shadow:0 4px 24px #0003}</style></head>
+<body><aside class="demo-banner"><strong>Тестовая страница · Локал Квиз</strong><span>Без аккаунтов и сохранения данных</span><a href="../">Все демо</a></aside>
+<header>
+<a class="brand" data-demo-href="#/" href="#">Локал<span>Квиз</span></a>
+<nav><a data-demo-href="#/" href="#">Мои квизы</a><a data-demo-href="#/results" href="#">Результаты</a></nav>
+<a class="join-link" data-demo-href="#/join" href="#">Присоединиться к игре →</a>
+<details class="game-menu"><summary aria-label="Меню">☰</summary><nav><a data-demo-href="#/" href="#">Мои квизы</a><a data-demo-href="#/results" href="#">Результаты</a><a data-demo-href="#/join" href="#">Войти по коду</a></nav></details>
+<div id="account-nav"><a data-demo-href="#/login" href="#">Войти</a><a data-demo-href="#/register" href="#">Регистрация</a></div></header>
+<main class="auth-page" id="app"><section class="auth-card"><h1>Вход в аккаунт</h1><p>Аккаунт организатора локальных квизов</p><form id="auth-form"><label>Логин<input autocomplete="off" id="auth-login" maxlength="40" minlength="3"/></label><label>Пароль<input autocomplete="off" disabled="" id="auth-password" maxlength="128" minlength="8" placeholder="В демо пароль не нужен" type="password"/></label><p class="auth-error" id="auth-error" role="alert"></p><button class="primary" id="auth-submit">Войти</button></form><p>Нет аккаунта? <a data-demo-href="#/register" href="#">Регистрация</a></p><a data-demo-href="#/join" href="#">Войти в игру по коду</a></section></main>
+<div id="toast" role="status"></div>
+<dialog id="modal"></dialog>
+
+<div id="demo-status" role="status"></div><script defer="" src="../demo.js"></script></body><div id="codex-browser-sidebar-comments-root" style="position: fixed; inset: 0px; pointer-events: none; z-index: 2147483647;"></div></html>

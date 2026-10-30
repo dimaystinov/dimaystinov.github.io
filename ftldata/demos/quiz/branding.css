@@ -1,0 +1,41 @@
+body[data-game-branding] { background: var(--brand-background); }
+body[data-game-branding] header, body[data-game-branding] #app .game-band { background: var(--brand-primary) !important; color: var(--brand-ink); }
+body[data-game-branding] header .brand, body[data-game-branding] header .brand span { color: var(--brand-ink); }
+body[data-game-branding] #app .primary, body[data-game-branding] #app .purple { background: var(--brand-primary); color: var(--brand-ink); border-color: var(--brand-primary); }
+body[data-game-branding] #app.game-page, body[data-game-branding] #app.remote-page, body[data-game-branding] #app.moderation-page { background: var(--brand-background); }
+.game-brand-logo { display: block; width: auto; max-width: min(230px, 34vw); max-height: 46px; object-fit: contain; }
+.branding-colors, .branding-previews { display: flex; flex-wrap: wrap; gap: 16px; margin: 16px 0; }
+.branding-previews section { min-width: 0; border: 1px solid #ccc; border-radius: 10px; overflow: hidden; text-align: center; padding: 12px; color: #30303b; }
+.branding-previews [data-brand-preview="desktop"] { flex: 2 1 220px; }
+.branding-previews [data-brand-preview="mobile"] { flex: 1 1 110px; }
+.branding-preview-header { margin: 10px -12px; min-height: 46px; padding: 8px; overflow-wrap: anywhere; }
+.branding-preview-header img { max-width: 100%; max-height: 46px; object-fit: contain; }
+.branding-previews button:disabled { opacity: 1; cursor: default; max-width: 100%; }
+.branding-editor .row { flex-wrap: wrap; }
+.branding-editor button { white-space: normal; }
+@media(max-width: 430px) { .game-brand-logo { max-width: 105px; max-height: 32px; } }
+body[data-game-branding] #account-nav, body[data-game-branding] #account-nav button, body[data-game-branding]:has(.game-page) .game-menu { color: var(--brand-ink); }
+body[data-game-branding] #account-nav > a, body[data-game-branding] #account-nav button { border-color: var(--brand-ink); }
+body[data-game-branding] #app .game-band > span { color: var(--brand-ink); }
+body[data-game-branding] #app .winner-home { background: var(--brand-ink); color: var(--brand-primary); }
+body[data-game-branding] #app .winner-avatar { color: #fff; }
+/* The menu icon uses painted bars, so inherited text color alone is insufficient. */
+body[data-game-branding] .game-menu summary {
+  color: var(--brand-ink);
+  background: linear-gradient(currentColor,currentColor) 0 1px/26px 3px no-repeat, linear-gradient(currentColor,currentColor) 0 10px/26px 3px no-repeat, linear-gradient(currentColor,currentColor) 0 19px/26px 3px no-repeat;
+}
+/* Question/reveal/remote clocks sit on white cards; countdown sits on the theme. */
+body[data-game-branding] #app .phase-clock { color: #30303b; }
+body[data-game-branding] #app .phase-clock .clock-ring strong,
+body[data-game-branding] #app .phase-clock [data-clock-label] { color: #30303b; }
+body[data-game-branding] #app.stage-countdown .clock-ring { background: var(--brand-primary); }
+body[data-game-branding] #app.stage-countdown .phase-clock .clock-ring strong,
+body[data-game-branding] #app.stage-countdown .phase-clock [data-clock-label] { color: var(--brand-ink); }
+body[data-game-branding] #app .phase-clock.is-paused { opacity: 1; }
+/* These final notices sit outside the white table on the custom page background. */
+body[data-game-branding] #app .final-tie-notice,
+body[data-game-branding] #app.stage-finished .hidden-ranking,
+body[data-game-branding] #app.stage-finished .game-main > h3 { background: #fff; color: #30303b; border-radius: 5px; }
+body[data-game-branding] #app .final-tie-notice button { color: #30303b; }
+body[data-game-branding] #app.stage-finished .game-main > h3 { padding: 12px; }
+body[data-game-branding] #app .final-place { border-color: currentColor; }

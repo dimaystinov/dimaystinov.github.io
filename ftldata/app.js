@@ -25,7 +25,7 @@
         section.append(make('h4', '', service.name), make('p', '', service.description));
         const link = make('a', 'service-open', 'Открыть ' + service.name + ' ↗');
         link.href = service.url; link.target = '_blank'; link.rel = 'noopener noreferrer';
-        section.append(link); body.append(section);
+        section.append(link); if(service.demo){const demo=make('a','service-open','Тестовая страница →');demo.href=service.demo;demo.style.marginLeft='16px';section.append(demo);} body.append(section);
       }
       for (const clip of [...(project.video ? [project.video] : []), ...(project.videos || [])]) {
         const figure = make('figure', 'project-video' + (clip.portrait ? ' project-video-portrait' : ''), '');
